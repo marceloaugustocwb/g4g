@@ -15,3 +15,8 @@ enableRobotsTXT = true
     title = "Gamer For Gamer"
     languageName = "Português"
     weight = 1
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
