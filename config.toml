@@ -1,0 +1,15 @@
+baseURL = "https://gamerforgamer.com/"
+languageCode = "pt-br"
+theme = "tale"
+
+defaultContentLanguage = "pt-br"
+summaryLength="30"
+
+[Author]
+  name = "Marcelo Augusto"
+
+[languages]
+  [languages.pt-br]
+    title = "Gamer For Gamer"
+    languageName = "Português"
+    weight = 1
