@@ -1,6 +1,6 @@
 ---
 title: As melhores armas de Elden Ring
-excerpt: Veja a lista das melhores armas do Elden Ring
+excerpt: Rios de Sangue, Presa do Cão de Caça e Lâmina Enxertada estão dentre as melhores armas Elden Ring &ndash; Bandai Namco, Elden Ring, From Software
 date: 2022-08-01T00:00:00.000-03:00
 header:
   image: "/images/melhores-armas-do-elden-ring.jpg"
