@@ -4,7 +4,6 @@ theme = "tale"
 
 defaultContentLanguage = "pt-br"
 summaryLength="30"
-googleAnalytics="G-5XVQH6BL8G"
 
 
 [Author]
