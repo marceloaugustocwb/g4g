@@ -39,8 +39,15 @@ a.catalogue-item p{
     flex-basis: 390px;
 }
 
-
-
 .post-title {
     font-size: 40px;
+}
+
+.nav-title{
+    width: 100%;
+}
+
+.logo-site{
+    height: 80px;
+    margin: 0 auto;
 }
