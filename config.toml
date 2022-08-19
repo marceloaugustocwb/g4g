@@ -6,7 +6,6 @@ defaultContentLanguage = "pt-br"
 summaryLength="30"
 enableRobotsTXT = true
 
-
 [Author]
   name = "Marcelo Augusto"
 
