@@ -17,7 +17,7 @@ O mapa mostra todos os cenários do jogo, e também pode ser usado como referên
 Você pode acessar o {{<b>mapa interativo de Elden ring</b>}}: [Link do mapa interativo de Elden Ring](https://mapgenie.io/elden-ring/maps/the-lands-between)  
   
   
-![Mapa interativo de Elden Ring](/images/mapa-interativo-elden-ring.webp "Mapa interativo de Elden Ring")
+![Mapa interativo de Elden Ring](/images/mapa-interativo-elden-ring.webp "Mapa interativo de Elden Ring")(https://mapgenie.io/elden-ring/maps/the-lands-between)
 
 ## Sucesso do Elden ring
 
