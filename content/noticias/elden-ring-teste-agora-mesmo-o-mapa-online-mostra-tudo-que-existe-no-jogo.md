@@ -2,8 +2,8 @@
 timeToRead: 3
 authors:
 - Marcelo Augusto
-title: 'Elden Ring: Teste agora mesmo o mapa online mostra tudo que existe no jogo. Elden ring mapa interativo, teste agora!'
-excerpt: Tudo que você precisa saber está aqui....
+title: 'Elden Ring: Teste agora mesmo o mapa interativo online, que mostra tudo que existe no jogo. Elden ring mapa interativo, teste agora!'
+excerpt: Elden ring mapa interativo, tudo que você precisa saber está aqui....
 date: 2022-08-01T00:00:00.000-03:00
 header:
     image: "/images/mapa-interativo-elden-ring.webp"
