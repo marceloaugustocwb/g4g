@@ -10,11 +10,11 @@ header:
 
 ---
   
-Há muitas pessoas que amam os jogos da [FromSoftware](https://www.fromsoftware.jp/ww/), e algumas que já amam o jogo [The Elden Ring](https://www.metacritic.com/game/pc/elden-ring). Alguns jogadores criaram o: <b>Elden Ring mapa interativo do</b> [MapGenie](https://mapgenie.io/elden-ring/maps/the-lands-between), que é um mapa da comunidade de fãs do jogo. O <b>mapa interativo do Elden Ring</b> está ajudando os jogadores a localizarem os itens, equipamentos e tudo que contém no jogo.
+Há muitas pessoas que amam os jogos da [FromSoftware](https://www.fromsoftware.jp/ww/), e algumas que já amam o jogo [The Elden Ring](https://www.metacritic.com/game/pc/elden-ring). Alguns jogadores criaram o: {{<b>Elden Ring mapa interativo do</b>}} [MapGenie](https://mapgenie.io/elden-ring/maps/the-lands-between), que é um mapa da comunidade de fãs do jogo. O {{<b>mapa interativo do Elden Ring</b>}} está ajudando os jogadores a localizarem os itens, equipamentos e tudo que contém no jogo.
 
 O mapa mostra todos os cenários do jogo, e também pode ser usado como referência para encontrar certos chefes, npc's ou itens. Algumas dessas coisas estão marcadas no mapa.  
   
-Você pode acessar o <b>mapa interativo de Elden ring</b>: [Link do mapa interativo de Elden Ring](https://mapgenie.io/elden-ring/maps/the-lands-between)  
+Você pode acessar o {{<b>mapa interativo de Elden ring</b>}}: [Link do mapa interativo de Elden Ring](https://mapgenie.io/elden-ring/maps/the-lands-between)  
   
   
 ![Mapa interativo de Elden Ring](/images/mapa-interativo-elden-ring.webp "Mapa interativo de Elden Ring")
