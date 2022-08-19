@@ -1,0 +1,15 @@
+baseURL = "https://gamerforgamer.com/"
+languageCode = "pt-br"
+title = "De jogador para jogador!"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Notícias"
+    pre = "pen-tool"
+    url = "/noticias/"
+    weight = 2
