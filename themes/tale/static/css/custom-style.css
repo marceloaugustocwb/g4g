@@ -54,3 +54,10 @@ a.catalogue-item p{
 
 .wiki_table tr:nth-child(even) {background: #CCC}
 .wiki_table tr:nth-child(odd) {background: #FFF}
+
+
+iframe {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
