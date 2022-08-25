@@ -10,7 +10,7 @@
 		{{- end }}
 
 		<title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
-
+	
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
 		{{- $cssTarget		:= "css/style.css" }}
@@ -19,7 +19,8 @@
 		<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 		<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
 		
-			<link rel="stylesheet" href="{{ "css/custom-style.css" | relURL }}">
+		<link rel="stylesheet" href="{{ "css/custom-style.css" | relURL }}">
+		<link rel="canonical" href="{{ .Permalink }}" />
 		
 
 		<!-- Favicon -->
