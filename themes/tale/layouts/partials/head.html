@@ -9,7 +9,7 @@
 			<meta name="description" content="{{ .Params.Excerpt  }}">
 		{{- end }}
 
-		<title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
+		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
 	
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
@@ -22,6 +22,17 @@
 		<link rel="stylesheet" href="{{ "css/custom-style.css" | relURL }}">
 		<link rel="canonical" href="{{ .Permalink }}" />
 		
+
+		<meta property="og:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
+		<meta name="twitter:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
+		<meta itemprop="name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
+		<meta name="application-name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
+		<meta property="og:site_name" content="Gamer For Gamer" />
+		
+		{{ with .Params.Header.Image }} 
+			<meta itemprop="image" content="{{ .Params.Header.Image | relURL }}" />
+			<meta property="og:image" content="{{ .Params.Header.Image | relURL }}" /> 
+		{{ end }} 
 
 		<!-- Favicon -->
 		<link rel="icon" href="{{ "images/favicon.ico" | relURL }}"/>
