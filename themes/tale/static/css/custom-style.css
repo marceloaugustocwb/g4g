@@ -68,3 +68,15 @@ iframe {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+
+@media screen and (max-width: 768px) {
+    .catalogue-image-column {
+        flex-direction: column;
+    }    
+    .catalogue-image,
+    a.catalogue-item p{
+        flex-basis: auto;
+    }
+}
+
