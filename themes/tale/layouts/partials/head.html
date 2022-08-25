@@ -9,7 +9,7 @@
 			<meta name="description" content="{{ .Params.Excerpt  }}">
 		{{- end }}
 
-		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
+		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}</title>
 	
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
@@ -23,10 +23,10 @@
 		<link rel="canonical" href="{{ .Permalink }}" />
 		
 
-		<meta property="og:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
-		<meta name="twitter:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
-		<meta itemprop="name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
-		<meta name="application-name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
+		<meta property="og:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
+		<meta name="twitter:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
+		<meta itemprop="name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
+		<meta name="application-name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
 		<meta property="og:site_name" content="Gamer For Gamer" />
 		
 		{{ if .Params.Header.Image }} 
