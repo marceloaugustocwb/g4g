@@ -29,7 +29,7 @@
 		<meta name="application-name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}" />
 		<meta property="og:site_name" content="Gamer For Gamer" />
 		
-		{{ with .Params.Header.Image }} 
+		{{ if .Params.Header.Image }} 
 			<meta itemprop="image" content="{{ .Params.Header.Image | relURL }}" />
 			<meta property="og:image" content="{{ .Params.Header.Image | relURL }}" /> 
 			<meta name="twitter:image" content="{{ .Params.Header.Image | relURL }}" />
