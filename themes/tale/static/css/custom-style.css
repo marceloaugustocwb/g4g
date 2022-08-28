@@ -1,3 +1,17 @@
+
+
+body{
+    font-family: sans-serif;
+}
+
+.post p {
+    font-size: 18px;
+}
+
+h1,h2,h3,h4,h5{
+    font-size: 1.5em;
+}
+
 div#darkModeToggle {
     font-size: 13px;
     background: black;
@@ -68,15 +82,6 @@ iframe {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
-body{
-    font-family: sans-serif;
-}
-
-.post p {
-    font-size: 18px;
-}
-
 
 @media screen and (max-width: 768px) {
     .catalogue-image-column {
