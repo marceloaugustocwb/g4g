@@ -69,6 +69,14 @@ iframe {
     margin-bottom: 20px;
 }
 
+body{
+    font-family: sans-serif;
+}
+
+.post p {
+    font-size: 18px;
+}
+
 
 @media screen and (max-width: 768px) {
     .catalogue-image-column {
