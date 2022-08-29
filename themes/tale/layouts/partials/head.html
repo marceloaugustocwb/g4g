@@ -9,7 +9,7 @@
 			<meta name="description" content="{{ .Params.Excerpt  }}">
 		{{- end }}
 
-		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}</title>
+		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}</title>
 	
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
