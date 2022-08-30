@@ -64,6 +64,10 @@ a.catalogue-item p{
     font-size: 40px;
 }
 
+.post ul {
+    font-size: 18px;
+}
+
 .nav-title{
     width: 100%;
 }
