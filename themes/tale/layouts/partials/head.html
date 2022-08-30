@@ -18,8 +18,7 @@
 		{{- $style			:= resources.Get "scss/tale.scss" | toCSS $cssOptions }}
 		<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 		<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
-		
-		<link rel="stylesheet" href="{{ "css/custom-style.css" | relURL }}">
+		<link rel="stylesheet" href="https://gamerforgamer.com/css/custom-style.css">
 		<link rel="canonical" href="{{ .Permalink }}" />
 		
 
@@ -52,7 +51,6 @@
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5XVQH6BL8G"></script>
 		<script>
-		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 
