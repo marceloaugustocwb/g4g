@@ -2,6 +2,16 @@
 <html lang="{{ .Site.LanguageCode }}" class="light">
     {{ partial "head.html" . }}
     <body>
+        <amp-analytics type="gtag" data-credentials="include">
+			<script type="application/json">
+			{
+			  "vars" : {
+				"gtag_id": "G-5XVQH6BL8G",
+			  }
+			}
+			</script>
+		</amp-analytics>
+        
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
         {{ partial "footer.html" . }}
