@@ -2,24 +2,8 @@
 <html lang="{{ .Site.LanguageCode }}" class="light">
     {{ partial "head.html" . }}
     <body>
-        <amp-analytics type="gtag" data-credentials="include">
-            <script type="application/json">
-              {
-                "vars": {
-                  "gtag_id": "G-5XVQH6BL8G",
-                  "config": {
-                    "G-5XVQH6BL8G": {}
-                  }
-                },
-                "triggers": {
-                    "trackPageview": {
-                        "on": "visible",
-                        "request": "pageview"
-                    }
-                }
-              }
-            </script>
-          </amp-analytics>
+       <!-- Google Tag Manager -->
+        <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-KZ2GD79&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
 
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
