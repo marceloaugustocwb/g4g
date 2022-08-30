@@ -3,28 +3,23 @@
     {{ partial "head.html" . }}
     <body>
         <amp-analytics type="gtag" data-credentials="include">
-			<script type="application/json">
-            {
+            <script type="application/json">
+              {
                 "vars": {
-                    "account": "G-5XVQH6BL8G"
+                  "gtag_id": "G-5XVQH6BL8G",
+                  "config": {
+                    "G-5XVQH6BL8G": {}
+                  }
                 },
                 "triggers": {
                     "trackPageview": {
                         "on": "visible",
                         "request": "pageview"
-                    },
-                    "trackEvent": {
-                        "on": "visible",
-                        "request": "event",
-                        "vars": {
-                            "eventCategory": "amp",
-                            "eventAction": "viewed_amp"
-                        }
                     }
                 }
-            }
-			</script>
-		</amp-analytics>
+              }
+            </script>
+          </amp-analytics>
 
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
