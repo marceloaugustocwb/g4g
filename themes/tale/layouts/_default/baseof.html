@@ -2,8 +2,10 @@
 <html lang="{{ .Site.LanguageCode }}" class="light">
     {{ partial "head.html" . }}
     <body>
-       <!-- Google Tag Manager -->
-        <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-KZ2GD79&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPXF9S4"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
 
         {{ partial "header.html" . }}
         {{ block "main" . }}{{ end }}
