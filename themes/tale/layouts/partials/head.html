@@ -165,14 +165,17 @@
 
 		<!-- <script src="{{ "js/darkmode.js" | relURL }}"></script> -->
 
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5XVQH6BL8G"></script>
-		<script>
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'G-5XVQH6BL8G');
-		</script>
+		<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+		
+		<amp-analytics type="gtag" data-credentials="include">
+			<script type="application/json">
+			{
+			  "vars" : {
+				"gtag_id": "G-5XVQH6BL8G",
+			  }
+			}
+			</script>
+		</amp-analytics>
 
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1620683366823925"
 		crossorigin="anonymous"></script>
