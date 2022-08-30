@@ -5,16 +5,21 @@
         <amp-analytics type="gtag" data-credentials="include">
 			<script type="application/json">
             {
-                "vars" : {
-                    "gtag_id": "G-5XVQH6BL8G",
-                    "config" : {
-                        "G-5XVQH6BL8G": { "groups": "default" }
-                    }
+                "vars": {
+                    "account": "G-5XVQH6BL8G"
                 },
-                "triggers":{
+                "triggers": {
                     "trackPageview": {
-                        "on":"visible",
+                        "on": "visible",
                         "request": "pageview"
+                    },
+                    "trackEvent": {
+                        "on": "visible",
+                        "request": "event",
+                        "vars": {
+                            "eventCategory": "amp",
+                            "eventAction": "viewed_amp"
+                        }
                     }
                 }
             }
