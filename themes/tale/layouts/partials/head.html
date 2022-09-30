@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		{{- if .IsHome }}
-			<meta name="description" content="Veja as novidades no mundo dos jogos, de início estamos postando conteúdos sobre o Elden ring.">
+			<meta name="description" content="Veja as novidades no mundo dos jogos aqui na Gamer For Gamer.">
 		{{- else if .Params.Excerpt  }}
 			<meta name="description" content="{{ .Params.Excerpt  }}">
 		{{- end }}
@@ -135,7 +135,62 @@
 			margin-top: 40px;
 		}
 
+		.btn-buy-amazon{
+			background: #E77600;
+			width: max-content;
+			padding: 10px;
+			text-align: center;
+			border-radius: 7px;
+			height: 60px;
+			justify-content: center;
+			display: flex;
+			align-items: center;
+			margin: 0 auto;
+			margin-top: 40px;
+			border: 1px solid #4e5965;
+			color: white;
+		}
+
+		.btn-buy-amazon-imagem{
+			background: #E77600;
+			width: max-content;
+			padding: 10px;
+			text-align: center;
+			border-radius: 7px;
+			height: 60px;
+			justify-content: center;
+			display: flex;
+			align-items: center;
+			margin: 0 auto;
+			border: 1px solid #4e5965;
+			color: white;
+		}
+		.amazon-imagem-link{
+			width: 200px;
+			display: block;
+		}
+
+		.list-product-amazon{
+			display: flex;
+			justify-content: center;
+		}
+
+		.img-full{
+			width: 100%;
+		}
+
+		.copyright-image{
+			margin-top: -20px;
+			display: block;
+			margin-bottom: 15px;
+		}
+
 		@media screen and (max-width: 768px) {
+
+			.list-product-amazon{
+				display: flex;
+				justify-content: flex-start;
+			}
 
 			.logo-site {
 				height: 50px;
@@ -167,6 +222,16 @@
 		<meta itemprop="name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
 		<meta name="application-name" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} - {{ .Site.Title }}{{- end }}" />
 		<meta property="og:site_name" content="Gamer For Gamer" />
+		<meta property="og:url" content="{{ .Permalink }}" />
+		<meta property="og:type" content="article"/>
+		
+
+		{{- if .IsHome }}
+			<meta property="og:description" content="Veja as novidades no mundo dos jogos aqui na Gamer For Gamer."/>			
+		{{- else if .Params.Excerpt  }}
+			<meta property="og:description" content="{{ .Params.Excerpt  }}"/>			
+		{{- end }}
+		
 		
 		{{ if .Params.Header.Image }} 
 			<meta itemprop="image" content="{{ .Params.Header.Image | relURL }}" />
