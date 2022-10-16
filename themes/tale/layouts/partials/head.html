@@ -297,4 +297,22 @@
 		}
 		</script>
 		</amp-analytics>
+
+		<script type="application/ld+json">
+			{
+			  "@context": "https://schema.org",
+			  "@type": "NewsArticle",
+			  "headline": "{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}",
+			  "image": [
+				"{{ .Params.Header.Image | relURL }}"
+			   ],
+			  "datePublished": "{{ .PublishDate }}",
+			  "dateModified": "{{ .PublishDate }}",
+			  "author": [{
+				  "@type": "Person",
+				  "name": "Marcelo Augusto",
+				  "url": "https://gamerforgamer.com"
+				}]
+			}
+		</script>
 	</head>
