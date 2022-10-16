@@ -274,10 +274,25 @@
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-PZWKNDHH37"></script>
 		<script>
-		window.dataLayer = window.dataLayer || [];
 		function gtag(){dataLayer.push(arguments);}
 		gtag('js', new Date());
 
 		gtag('config', 'G-PZWKNDHH37');
 		</script>
+
+		<amp-analytics type="googleanalytics" config="https://amp.analytics-debugger.com/ga4.json" data-credentials="include">
+		<script type="application/json">
+		{
+			"vars": {
+				"GA4_MEASUREMENT_ID": "G-PZWKNDHH37",
+				"GA4_ENDPOINT_HOSTNAME": "www.google-analytics.com",
+				"DEFAULT_PAGEVIEW_ENABLED": true,    
+				"GOOGLE_CONSENT_ENABLED": false,
+				"WEBVITALS_TRACKING": false,
+				"PERFORMANCE_TIMING_TRACKING": false,
+				"SEND_DOUBLECLICK_BEACON": false
+			}
+		}
+		</script>
+		</amp-analytics>
 	</head>
