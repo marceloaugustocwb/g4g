@@ -287,6 +287,11 @@
 			  "headline": "{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}",
 			  "image": [
 				"{{ .Params.Header.Image | relURL }}"
+				{{- if .Params.Image1x1 }}
+					,"{{ .Params.Image1x1 | relURL }}"
+					,"{{ .Params.Image4x3 | relURL }}"
+					,"{{ .Params.Image16x9 | relURL }}"
+				{{- end }}
 			   ],
 			  "datePublished": "{{ .PublishDate }}",
 			  "dateModified": "{{ .PublishDate }}",
