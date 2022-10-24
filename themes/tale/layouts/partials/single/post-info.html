@@ -7,7 +7,11 @@
     {{- end }}
 
     {{- if .PublishDate }}
+        em <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
+    {{- end }}
+
+    {{- if .Params.dateupdatetext }}
         <br>
-        <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
+        Atualizado em <time>{{ .Params.dateupdatetext }}</time>
     {{- end }}
 </div>
