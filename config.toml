@@ -20,4 +20,18 @@ paginate=30
   changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
-  
+
+
+[menu]
+[[menu.main]]  
+  name = 'Free fire'
+  url = '/tags/free-fire'
+  weight = -10
+[[menu.main]]
+  name = 'Elden ring'
+  url = '/tags/elden-ring'
+  weight = -9
+[[menu.main]]
+  name = 'God of war'
+  url = '/tags/god-of-war'
+  weight = -8
