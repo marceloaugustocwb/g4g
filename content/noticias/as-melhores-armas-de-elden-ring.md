@@ -163,6 +163,6 @@ Essas são apenas algumas das melhores armas de **Elden Ring**. Vale mencionar q
 
 "Elden Ring é um jogo emocionante e repleto de ação, onde os jogadores podem encontrar armas lendárias incríveis e poderosas. Uma das melhores armas do jogo é a Seta de Gransax, uma seta lendária que é conhecida por sua precisão e dano massivo. Outra arma lendária digna de menção é a Espada da Noite (Sword of Night), um espadão que é incrivelmente forte e tem habilidades únicas.
 
-O jogador também pode encontrar essas armas lendárias explorando o nível inferior da mansão, um local secreto e desafiante que é cheio de monstros e tesouros. O jogador Murilo Tunholi é um especialista em encontrar essas armas lendárias e compartilha dicas e truques em seu canal no YouTube. Se você está procurando uma jornada emocionante e desafiante com armas lendárias incríveis, então Elden Ring é o jogo perfeito para você."
+O jogador também pode encontrar essas armas lendárias explorando o nível inferior da mansão, um local secreto e desafiante que é cheio de monstros e tesouros.
 
 Parte deste texto foi retirada do site: [As melhores armas de Elden Ring - Tecnoblog](https://tecnoblog.net/responde/as-melhores-armas-de-elden-ring)
