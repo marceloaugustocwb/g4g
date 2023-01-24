@@ -2,8 +2,11 @@
 title: As melhores armas de Elden Ring - 2023
 excerpt: Rios de Sangue, Presa do Cão de Caça e Lâmina Enxertada estão dentre as melhores armas Elden Ring &ndash; Bandai Namco, Elden Ring, From Software
 date: 2023-01-23T01:51:00.000-03:00
+dateupdatetext: '24 de janeiro de 2023'
+tags: 
+  - Elden Ring
 header:
-  image: "/images/melhores-armas-do-elden-ring.jpg"
+  image: "/images/elden-ring/melhores-armas-elden-ring.webp"
 authors:
 - Marcelo Augusto
 ---
