@@ -50,7 +50,7 @@ const button = document.getElementById('btn-calculater');
 function calculater() {
 	let csgo_sensi = document.getElementById("cs-go-sensi").value;
 	let csgo_to_valorant = csgo_sensi.replace(",", ".") / 3.18;
-	document.getElementById("result").innerHTML = 'Você deve usar essa sensibilidade no Valorant: <b>' + parseFloat(csgo_to_valorant) + '</b>.'; 
+	document.getElementById("result").innerHTML = 'Você deve usar essa sensibilidade no Valorant: <b>' + parseFloat(csgo_to_valorant).toFixed(2) + '</b>.'; 
 }
 
 button.addEventListener('click', () => {
