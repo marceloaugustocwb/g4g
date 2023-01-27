@@ -342,26 +342,55 @@
 		crossorigin="anonymous"></script>
 
 		<script type="application/ld+json">
-			{
-			  "@context": "https://schema.org",
-			  "@type": "NewsArticle",
-			  "headline": "{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}",
-			  "image": [
-				"{{ .Params.Header.Image | relURL }}"
-				{{- if .Params.Image1x1 }}
-					,"{{ .Params.Image1x1 | relURL }}"
-					,"{{ .Params.Image4x3 | relURL }}"
-					,"{{ .Params.Image16x9 | relURL }}"
-				{{- end }}
-			   ],
-			  "datePublished": "{{ .PublishDate }}",
-			  "dateModified": "{{ .PublishDate }}",
-			  "author": [{
-				  "@type": "Person",
-				  "name": "Marcelo Augusto",
-				  "url": "https://gamerforgamer.com"
-				}]
-			}
+		{
+			"@context": "https://schema.org",
+			"@graph": 
+			[
+				{
+					"@type": "WebSite",
+					"@id": "https://gamerforgamer.com/#website",
+					"url": "https://gamerforgamer.com",
+					"name": "Gamer For Gamer",
+					"description": "Gamer For Gamer, informações sobre Free Fire, Elden Ring e muitos outros jogos!",
+					"publisher": {
+						"@id": "https://gamerforgamer.com/#organization"
+					},
+					"inLanguage": "pt-BR"
+				},
+				{
+				"@type": "Article",
+				"headline": "{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}",
+				"image": [
+					"{{ .Params.Header.Image | relURL }}"
+					{{- if .Params.Image1x1 }}
+						,"{{ .Params.Image1x1 | relURL }}"
+						,"{{ .Params.Image4x3 | relURL }}"
+						,"{{ .Params.Image16x9 | relURL }}"
+					{{- end }}
+				],
+				"thumbnailUrl": [
+					"{{ .Params.Header.Image | relURL }}"
+					{{- if .Params.Image1x1 }}
+						,"{{ .Params.Image1x1 | relURL }}"
+						,"{{ .Params.Image4x3 | relURL }}"
+						,"{{ .Params.Image16x9 | relURL }}"
+					{{- end }}
+				],
+				"datePublished": "{{ .PublishDate }}",
+				"dateModified": "{{ .PublishDate }}",
+				"inLanguage": "pt-BR",
+				"copyrightYear": "2023",
+				"copyrightHolder": {
+					"@id": "https://gamerforgamer.com"
+				},
+				"author": [{
+					"@type": "Person",
+					"name": "Marcelo Augusto",
+					"url": "https://gamerforgamer.com"
+					}]
+				}
+			]
+		}
 		</script>
 
 		<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
