@@ -13,6 +13,8 @@ authors:
 
 **Elden Ring** é um jogo maravilhoso, a exploração dentro do jogo é algo muito recompensador. Durante a sua exploração você pode encontrar as melhores armas do Elden Ring, e este artigo é um guia para que você possa desfrutar do jogo com um pouco mais de facilidade.
 
+Desde armas lendárias até armas comuns, seja qual for o seu estilo de jogo o Elden ring tem a arma ideal para o seu personagem. O mundo aberto de Elden Ring é repleto de desafios e acompanhado com uma boa arma, você conseguirá explorar o jogo sem grandes dificuldades.
+
   
 Melhores armas do Elden Ring:
 
