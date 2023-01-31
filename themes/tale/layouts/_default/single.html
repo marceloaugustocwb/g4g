@@ -16,13 +16,11 @@
 
 	<div class="pagination">
 		{{- if .PrevPage }}
-		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">&#8592;</a>
+		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">Página anterior</a>
 		{{- end }}
 		{{- if .NextPage }}
-		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">&#8594;</a>
+		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">Próxima página</a>
 		{{- end }}
-
-		<a href="#" class="top">Ir para o início da notícia</a>
 	</div>
 </main>
 
