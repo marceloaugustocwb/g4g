@@ -5,7 +5,7 @@ theme = "tale"
 defaultContentLanguage = "pt-br"
 summaryLength="30"
 enableRobotsTXT = true
-paginate=50
+paginate=10
 
 [Author]
   name = "Marcelo Augusto"
