@@ -32,6 +32,6 @@ paginate=10
   url = '/tags/elden-ring'
   weight = -9
 [[menu.main]]
-  name = 'Hogwarts Legacy'
-  url = '/tags/hogwarts-legacy/'
+  name = 'Arena Breakout'
+  url = '/tags/arena-breakout/'
   weight = -8
