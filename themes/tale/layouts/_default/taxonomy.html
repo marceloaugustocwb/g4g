@@ -1,10 +1,15 @@
 {{ define "main" }}
 
 <main>
-    <h1>{{ strings.FirstUpper .Data.Singular }} {{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
+	<p>{{ .Params.internalExcerpt }}</p>
+	<h2 style="margin-top: 30px;">{{ .Params.questionTitle }}</h2>
+	<p>{{ .Params.questionContent }}</p>
+	
 	<div class="catalogue">
+		<h2 style="margin-bottom:0px">Nossos conteúdos sobre {{ .Params.nameTag }}</h2>
 		{{ range (.Paginate .Pages).Pages }}
-			{{ .Render "summary" }}
+			{{ .Render "summary-tags" }}
 		{{ end }}
 	</div>
 	
