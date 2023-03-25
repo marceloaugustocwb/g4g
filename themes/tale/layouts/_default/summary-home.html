@@ -1,14 +1,10 @@
 <a href="{{ .Permalink }}" class="catalogue-item">
     <div>
-        <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ i18n "publishdate" . }}</time>
         <h3 class="catalogue-title">{{ .Title }}</h3>
         <div class="catalogue-image-column">
             <div class="catalogue-image">
                 <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
             </div>
-            <p>
-                {{ if isset .Params "summary" }}{{ .Params.Summary | markdownify }}{{ else }}{{ .Summary }}{{ end }}
-            </p>
         </div>
     </div>
 </a>
