@@ -32,6 +32,6 @@ paginate=10
   url = '/tags/elden-ring'
   weight = -9
 [[menu.main]]
-  name = 'Arena Breakout'
-  url = '/tags/arena-breakout/'
+  name = 'God of war'
+  url = '/tags/god-of-war/'
   weight = -8

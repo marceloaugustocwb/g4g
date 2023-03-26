@@ -5,6 +5,14 @@
 
 	<div class="catalogue">
 		
+		
+
+		<h2 class="content-title-home">Resident Evil 4 Remake</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
+		{{- range first 3 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
 		<h2 class="content-title-home">God of war</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "God of war") -}}
 		{{- range first 3 ($p1) -}}
