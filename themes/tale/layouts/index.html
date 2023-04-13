@@ -50,6 +50,12 @@
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
+		<h2 class="content-title-home">GTA V</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GTAV") -}}
+		{{- range first 3 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
 	</div>
 </main>
 
