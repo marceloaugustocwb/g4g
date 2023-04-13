@@ -10,7 +10,7 @@ placeholder.
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
 {{- range first 3 ($p1) -}}
     <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;">{{ .Title }}</h4></a></li>
+        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
     </ul>
 {{- end -}}
 
@@ -18,7 +18,7 @@ placeholder.
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
 {{- range first 10 ($p1) -}}
     <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;">{{ .Title }}</h4></a></li>
+        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
     </ul>
 {{- end -}}
 
@@ -26,7 +26,7 @@ placeholder.
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Elden Ring") -}}
 {{- range first 10 ($p1) -}}
     <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;">{{ .Title }}</h4></a></li>
+        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
     </ul>
 {{- end -}}
 
@@ -35,7 +35,7 @@ placeholder.
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
 {{- range first 20 ($p1) -}}
     <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;">{{ .Title }}</h4></a></li>
+        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
     </ul>
 {{- end -}}
 
@@ -43,6 +43,6 @@ placeholder.
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GTAV") -}}
 {{- range first 3 ($p1) -}}
     <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;">{{ .Title }}</h4></a></li>
+        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
     </ul>
 {{- end -}}
