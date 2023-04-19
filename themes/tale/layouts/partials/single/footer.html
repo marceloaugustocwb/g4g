@@ -4,45 +4,25 @@ layouts/partials/single/footer.html in your own site to overwrite this
 placeholder.
 -->
 
-<h2>Mais conteúdos em nosso site</h2>
+<h2>Mais conteúdos em nosso site sobre {{.Page.Params.Tags}}</h2>
 		
-<h3>Resident Evil 4 Remake</h3>
-{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
-{{- range first 3 ($p1) -}}
-    <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
-    </ul>
-{{- end -}}
-
-<h3>Hogwarts Legacy</h3>
-{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
+{{ $currentTitle := .Page.Title}}
+{{- $p1 := where .Site.Pages "Params.tags" "intersect" .Page.Params.Tags -}}
 {{- range first 10 ($p1) -}}
-    <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
-    </ul>
-{{- end -}}
-
-<h3>Elden Ring</h3>
-{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Elden Ring") -}}
-{{- range first 10 ($p1) -}}
-    <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
-    </ul>
+    {{ if ne .Title $currentTitle }}
+        {{ .Render "summary-tags" }}
+    {{end}}
 {{- end -}}
 
 
-<h3>Free Fire</h3>
-{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
-{{- range first 20 ($p1) -}}
-    <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
-    </ul>
-{{- end -}}
-
-<h3>GTA V</h3>
-{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GTAV") -}}
-{{- range first 3 ($p1) -}}
-    <ul>
-        <li><a href="{{ .Permalink }}"><h4 style="text-decoration: none;font-size: 1.1rem;">{{ .Title }}</h4></a></li>
-    </ul>
-{{- end -}}
+<style>
+.read-more{
+    border: 1px solid #3651d7;
+    color: #3651d7;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    text-decoration: none !important;
+    text-align: center;
+}
+</style>
