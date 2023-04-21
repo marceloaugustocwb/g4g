@@ -1,7 +1,13 @@
 <a href="{{ .Permalink }}" class="catalogue-item">
     <div>
         <time datetime="{{ .PublishDate }}" class="catalogue-time">{{ i18n "publishdate" . }}</time>
-        <h3 class="catalogue-title">{{ .Title }}</h3>
+        <h3 class="catalogue-title">
+            {{with .Params.H1}}
+                {{.}}
+            {{else}}
+                {{.Title}}
+            {{end}}
+        </h3>
         <div class="catalogue-image-column">
             <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
         </div>
