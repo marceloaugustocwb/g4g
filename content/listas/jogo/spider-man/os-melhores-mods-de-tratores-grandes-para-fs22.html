@@ -1,0 +1,19 @@
+---
+authors:
+- Marcelo Augusto
+title: 'Spider-Man - Lista de todos os jogos! - PC, PS1, PS2, PS3, PS5 e muito mais!'
+excerpt: 'Veja a lista de todos os jogos do Spider-Man lançados e que ainda vão lançar!'
+date: 2022-10-14T05:07:00-03:00
+header:
+    image: "/images/fs22/melhores-mods-de-tratores-grandes.webp"
+tags: 
+    - Lista
+    - Spider-Man
+---
+
+$games := getJSON "static/lista.json" "default content if getJSON fails"
+{{ range $games }}
+ <li>
+   <strong>{{ .name }}</strong> - {{ .description }}
+ </li>
+{{ end }}

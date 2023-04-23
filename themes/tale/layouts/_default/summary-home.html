@@ -3,7 +3,11 @@
         <h3 class="catalogue-title">{{ .Title }}</h3>
         <div class="catalogue-image-column">
             <div class="catalogue-image">
-                <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
+                {{ if .Params.Header.Image }} 
+                    <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
+                {{ else if .Params.Image }}
+                    <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+                {{ end }}
             </div>
         </div>
     </div>

@@ -1,0 +1,2422 @@
+{
+    "error": "OK",
+    "limit": 100,
+    "offset": 0,
+    "number_of_page_results": 72,
+    "number_of_total_results": 72,
+    "status_code": 1,
+    "results": [
+        {
+            "release_date": "2023-12-31 12:00:00",
+            "description": "Marvel's Spider-Man 2 is the next game in PlayStation's critically acclaimed Marvel's Spider-Man franchise.\n\nDeveloped for the PlayStation 5 console in collaboration with PlayStation and Marvel Games.",
+            "id": 537794,
+            "name": "Marvel's Spider-Man 2",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/6/2/6/2/537794-816262.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/6/2/6/2/537794-816262.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/6/2/6/2/537794-816262.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/6/2/6/2/537794-816262.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-537794",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-537794",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-537794",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-537794",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-537794",
+            "site_detail_url": "https://www.gamespot.com/marvels-spider-man-2/"
+        },
+        {
+            "release_date": "2020-11-12 12:00:00",
+            "description": "In the latest adventure in the Marvel's Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility.\n\nTo save all of Marvel's New York, Miles must take up the mantle of Spider-Man and own it.",
+            "id": 513844,
+            "name": "Marvel's Spider-Man: Miles Morales",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/5/7/5/8/513844-755758.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/5/7/5/8/513844-755758.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/5/7/5/8/513844-755758.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/5/7/5/8/513844-755758.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-513844",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-513844",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-513844",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-513844",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-513844",
+            "site_detail_url": "https://www.gamespot.com/marvels-spider-man-miles-morales/"
+        },
+        {
+            "release_date": "2019-06-25 12:00:00",
+            "description": "Your time to swing through New York like Spider-Man has finally arrived!\nIn breathtaking virtual reality, you'll finally have the chance to scale and swing from the highest towers in Manhattan. Just pick one of four Spider-Man suits and you'll be launched into the cloudsbut keep your eyes and ears peeled, a colossal and dangerous enemy is waiting. Only you have the power to find and confront New York's latest attacker in this thrilling, swinging adventure.\n\nBased on the film, the Spider-Man: Far From Home VR Experience is a fast-swinging, thrill ride through the eyes of your favorite neighborhood Spider-Man.",
+            "id": 499034,
+            "name": "Spider-Man: Far From Home Virtual Reality",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/8/3/8/1/499034-718381.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/8/3/8/1/499034-718381.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/8/3/8/1/499034-718381.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/8/3/8/1/499034-718381.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                },
+                {
+                    "name": "Marvel Cinematic Universe"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-499034",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-499034",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-499034",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-499034",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-499034",
+            "site_detail_url": "https://www.gamespot.com/spider-man-far-from-home-virtual-reality/"
+        },
+        {
+            "release_date": "2018-09-07 12:00:00",
+            "description": "Spider-Man is coming to the PlayStation 4.",
+            "id": 455396,
+            "name": "Marvel's Spider-Man",
+            "deck": "Spider-Man is coming to the PlayStation 4.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1197/11970954/3079195-spiderlogy.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1197/11970954/3079195-spiderlogy.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1197/11970954/3079195-spiderlogy.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1197/11970954/3079195-spiderlogy.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-455396",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-455396",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-455396",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-455396",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-455396",
+            "site_detail_url": "https://www.gamespot.com/marvels-spider-man/"
+        },
+        {
+            "release_date": "2017-07-31 12:00:00",
+            "description": "",
+            "id": 465759,
+            "name": "Spider-Man: Homecoming",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Arcade"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                },
+                {
+                    "name": "Marvel Cinematic Universe"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-465759",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-465759",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-465759",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-465759",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-465759",
+            "site_detail_url": "https://www.gamespot.com/spider-man-homecoming/"
+        },
+        {
+            "release_date": "2017-06-30 12:00:00",
+            "description": "For the first time, you can suit up as Spider-Man and see what it's like to be the world's favorite superhero. Learn the ins and outs of your brand new Stark Industries upgraded web shooters and master different web types as you race to complete fast-paced targeting trials but you'll have to learn quickly The Vulture is on the loose and coming for you. Sling high above the city in a dramatic confrontation before pursuing Spidey's deadliest enemy.\n\nBased on the all-new 2017 film, the Spider-Man Homecoming VR Experience is a fun and thrilling first-person look inside the world of your friendly neighborhood Spider-Man.",
+            "id": 466266,
+            "name": "Spider-Man: Homecoming - Virtual Reality Experience",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/5/8/6/7/466266-635867.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/5/8/6/7/466266-635867.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/5/8/6/7/466266-635867.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/5/8/6/7/466266-635867.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "VR"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "VR"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                },
+                {
+                    "name": "Marvel Cinematic Universe"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-466266",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-466266",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-466266",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-466266",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-466266",
+            "site_detail_url": "https://www.gamespot.com/spider-man-homecoming-virtual-reality-experience/"
+        },
+        {
+            "release_date": "2014-09-10 12:00:00",
+            "description": "Enjoy the unlimited power of swinging and running as Spider-Man in a chaotic Manhattan and battle the Formidable Sinister Six, including the Green Goblin and the Vulture! Swing into action in the first 3D web-runner, and experience the Spider-Man comics come to life like never before!",
+            "id": 285550,
+            "name": "Spider-Man Unlimited",
+            "deck": "Enjoy the unlimited power of swinging and running as Spider-Man in a chaotic Manhattan and battle the Formidable Sinister Six, including the Green Goblin and the Vulture.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1197/11970954/2559462-logos_006.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1197/11970954/2559462-logos_006.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1197/11970954/2559462-logos_006.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1197/11970954/2559462-logos_006.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Fantasy"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-285550",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-285550",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-285550",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-285550",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-285550",
+            "site_detail_url": "https://www.gamespot.com/spider-man-unlimited/"
+        },
+        {
+            "release_date": "2014-04-29 12:00:00",
+            "description": "Dare To Be Amazing\n\nGo beyond the film in a unique story where Spider-Man discovers he's not the only one tracking down NYC's criminals.\n\nUnleash your web-slinging skills as you battle all-new villains from both the movie and Spider-Man universes.",
+            "id": 520853,
+            "name": "The Amazing Spider-Man 2 (2014)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/7/5/3/0/198780-327530.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/7/5/3/0/198780-327530.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/7/5/3/0/198780-327530.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/7/5/3/0/198780-327530.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-520853",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-520853",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-520853",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-520853",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-520853",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-2-2014/"
+        },
+        {
+            "release_date": "2014-04-17 12:00:00",
+            "description": "Developed by Beenox, the same game studio behind 2012’s original hit The Amazing Spider-Man, this all-new third-person action-adventure video game builds on the story of the previous game with an alternative take on the events of the upcoming movie, while also giving players an enhanced, free-roaming web-slinging experience through a greatly expanded New York City.",
+            "id": 198780,
+            "name": "The Amazing Spider-Man 2",
+            "deck": "The Amazing Spider-Man 2 is a third-person action-adventure video game that builds on the story of the previous game with an alternative take on the events of the upcoming movie, while also giving players an enhanced, free-roaming web-slinging experience through a greatly expanded New York City.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1197/11970954/2512400-519irz%2Br0kl.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1197/11970954/2512400-519irz%2Br0kl.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1197/11970954/2512400-519irz%2Br0kl.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1197/11970954/2512400-519irz+r0kl.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-198780",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-198780",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-198780",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-198780",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-198780",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-2/"
+        },
+        {
+            "release_date": "2012-12-31 12:00:00",
+            "description": "",
+            "id": 583756,
+            "name": "Spider-Man Super TV Jet Ski",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "Arcade"
+                },
+                {
+                    "name": "Driving/Racing"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583756",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583756",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583756",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583756",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583756",
+            "site_detail_url": "https://www.gamespot.com/spider-man-super-tv-jet-ski/"
+        },
+        {
+            "release_date": "2012-06-26 12:00:00",
+            "description": "Go beyond the movie to experience what it's like to BE Spider-Man like never before. Set shortly after the events of Columbia Pictures' new film, The Amazing Spider-Man throws New York City's brand new hero back into free-roaming, web-slinging action, as he protects the Big Apple from a deluge of unimaginable threats. Experience the new Web Rush mechanic as Spidey twists his way through the NYC skyline with unprecedented speed and grace. The game's original story also explores beautiful indoor environments, as you'll encounter everything from skirmishes with everyday street thugs to pulse-pounding confrontations with Spider-Man's most lethal foes.",
+            "id": 120398,
+            "name": "The Amazing Spider-Man",
+            "deck": "The Amazing Spider-Man is a free-roaming, web-slinging action game set shortly after the events of the film where Spider-Man must protect the Big Apple from a deluge of unimaginable threats.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1197/11970954/2396859-amazingspiderman.jpeg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1197/11970954/2396859-amazingspiderman.jpeg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1197/11970954/2396859-amazingspiderman.jpeg",
+                "original": "https://www.gamespot.com/a/uploads/original/1197/11970954/2396859-amazingspiderman.jpeg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-120398",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-120398",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-120398",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-120398",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-120398",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man/"
+        },
+        {
+            "release_date": "2011-10-04 12:00:00",
+            "description": "Fight Today, Save Tomorrow \r\n\r\n2099. A chaotic, dystopian future results from the untimely death of Spider-Man. Fight across the span of a century to save the world -- and Spider-Man himself -- in this thrilling race against time!",
+            "id": 452704,
+            "name": "Spider-Man: Edge of Time (DS)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/6/1/6/2/101358-186162.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/6/1/6/2/101358-186162.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/6/1/6/2/101358-186162.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/6/1/6/2/101358-186162.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-452704",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-452704",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-452704",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-452704",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-452704",
+            "site_detail_url": "https://www.gamespot.com/spider-man-edge-of-time-ds/"
+        },
+        {
+            "release_date": "2011-10-04 12:00:00",
+            "description": "Developed by Activision-owned studio Beenox, Spider-Man: Edge of Time challenges the player to take on the roles of both classic Amazing Spider-Man and Spider-Man 2099 to correct a timestream gone awry and prevent a catastrophic future brought on by the early and untimely death of Peter Parker.",
+            "id": 101358,
+            "name": "Spider-Man: Edge of Time",
+            "deck": "Spider-Man: Edge of Time revolves around the timeline of both The Amazing Spider-Man and Spider-Man 2099.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/6/4/7/5/2226475-box_smeot.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/6/4/7/5/2226475-box_smeot.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/6/4/7/5/2226475-box_smeot.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/6/4/7/5/2226475-box_smeot.png"
+            },
+            "genres": [
+                {
+                    "name": "3D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Fantasy"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-101358",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-101358",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-101358",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-101358",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-101358",
+            "site_detail_url": "https://www.gamespot.com/spider-man-edge-of-time/"
+        },
+        {
+            "release_date": "2010-09-07 12:00:00",
+            "description": "Spider-Man: Shattered Dimensions is a thrilling action-packed adventure set in four dramatically different universes from legendary Spider-Man lore, each with a distinct Spider-Man armed with unique skills and strengths, in one original storyline. Players will be transported to new locations never before seen in a Spider-Man game, from lush jungles and dusty deserts to various urban terrains. Acclaimed comic book writer Dan Slott takes players on a mission to contain the magical energy of the Tablet of Order and Chaos, which has been shattered and sent hurtling across parallel universes, and battle fan-favorite villains in a quest to restore the fabric of reality.",
+            "id": 70674,
+            "name": "Spider-Man: Shattered Dimensions",
+            "deck": "Swing your way into action to help restore reality with your friendly neighborhood Spiderman.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/4/4/7/5/2224475-spidermansdfinalboxart.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/4/4/7/5/2224475-spidermansdfinalboxart.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/4/4/7/5/2224475-spidermansdfinalboxart.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/4/4/7/5/2224475-spidermansdfinalboxart.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Fantasy"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-70674",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-70674",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-70674",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-70674",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-70674",
+            "site_detail_url": "https://www.gamespot.com/spider-man-shattered-dimensions/"
+        },
+        {
+            "release_date": "2010-09-07 12:00:00",
+            "description": "",
+            "id": 529266,
+            "name": "Spider-Man: Shattered Dimensions (2010)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/6/5/7/0/70674-146570.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/6/5/7/0/70674-146570.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/6/5/7/0/70674-146570.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/6/5/7/0/70674-146570.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-529266",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-529266",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-529266",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-529266",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-529266",
+            "site_detail_url": "https://www.gamespot.com/spider-man-shattered-dimensions-2010/"
+        },
+        {
+            "release_date": "2010-09-01 12:00:00",
+            "description": "Your friendly neighborhood Spider-Man battles to save his beloved city! Spider-Man will need to use all of his great powers to save New York from the worst breakout of Super Villains the city has ever seen. Fight against time to stop the madness and mayhem created by the Super Villains who want to take over the city and disperse a poisonous virus! Spider-Man: Total Mayhem captures all the action, humor and fun of the Ultimate series in state-of-the-art gameplay and animations. Are you up for the challenge? \n\nWITH GREAT POWER COMES GREAT RESPONSIBILITY \n- Enjoy ultra dynamic gameplay with more than 20 fighting combos that take advantage of Spider-Mans extraordinary agility and super powers. \n- Master the mayhem by using Spideys agility to master tricky platforming and quick time events. \n- Find yourself in a pinch? Activate Spideys special attack, the Ultimate Web Combo to blast danger away! \n- Use your Spider-Sense to avoid danger and get in the best position to counter-attack! \n\nTHE COMIC UNIVERSE OF ULTIMATE SPIDER-MAN\n- Play in a storyline inspired by the Ultimate Spider-Man comics: Roxxon scientists planted inside the Triskelion facility covertly attempt to combine Venom with OZ Serum to improve it. The resultant blast destroys a portion of the Triskelion, allowing some of Spider-Mans greatest foes to escape. Released in the explosion, the Oz-Venom synthesis has also begun to infect citizens throughout the city! \n\n- Face off against six of Spider-Mans toughest enemies gathered in one game for unprecedented mayhem: Sandman, Rhino, Electro, Venom, Dr Octopus, and Green Goblin! \n- A sleek graphic style with bold colors and impressive animations including slow motion brings the Ultimate Spider-Man universe alive in right your hands! \n- In the heat of all the action capture your greatest combat moves for your friends with our Photography mini-game. And Search for collectibles to unlock comic art from the Ultimate Universe. \n\nNEW YORK IN PERIL\n- Visit 12 levels in unique New York City locations as depicted in the comic book series. Battle from the rooftops to the subway and back again! \n- Explore the city like Spider-Man! Cling to the walls and climb them and then jump, web sling or slide from rooftop to rooftop in memorable aerial sequences. \n- Unlock the Black Suit, and revisit all levels using your new capacities powered by the mysterious Symbiote substance.",
+            "id": 85052,
+            "name": "Spider-Man: Total Mayhem",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/5/6/6/3/2225663-spider_man_total_mayhem_iwirelessboxart_160w.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/5/6/6/3/2225663-spider_man_total_mayhem_iwirelessboxart_160w.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/5/6/6/3/2225663-spider_man_total_mayhem_iwirelessboxart_160w.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/5/6/6/3/2225663-spider_man_total_mayhem_iwirelessboxart_160w.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-85052",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-85052",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-85052",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-85052",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-85052",
+            "site_detail_url": "https://www.gamespot.com/spider-man-total-mayhem/"
+        },
+        {
+            "release_date": "2009-12-31 12:00:00",
+            "description": "",
+            "id": 583734,
+            "name": "Spider-Man: Web Master",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "Action"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583734",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583734",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583734",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583734",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583734",
+            "site_detail_url": "https://www.gamespot.com/spider-man-web-master/"
+        },
+        {
+            "release_date": "2009-07-29 12:00:00",
+            "description": "Green Goblin is releasing a serum that will turn innocent civilians into mutant enemies. Playing as Spidey you must defeat dangerous foes and gather their DNA to produce an antidote and defeat Goblin.",
+            "id": 56878,
+            "name": "Spider-Man Toxic City",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/9/4/4/8/56878-129448.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/9/4/4/8/56878-129448.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/9/4/4/8/56878-129448.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/9/4/4/8/56878-129448.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-56878",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-56878",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-56878",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-56878",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-56878",
+            "site_detail_url": "https://www.gamespot.com/spider-man-toxic-city/"
+        },
+        {
+            "release_date": "2008-12-31 12:00:00",
+            "description": "",
+            "id": 583733,
+            "name": "Spider-Man and the Masked Menace",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/3/6/0/6/583733-923606.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/3/6/0/6/583733-923606.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/3/6/0/6/583733-923606.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/3/6/0/6/583733-923606.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583733",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583733",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583733",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583733",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583733",
+            "site_detail_url": "https://www.gamespot.com/spider-man-and-the-masked-menace/"
+        },
+        {
+            "release_date": "2008-10-21 12:00:00",
+            "description": "When a deadly symbiotic invasion devastates the streets of New York City, only Spider-Man can seize control and bring salvation to the city! From the game's direction to Spider-Man's destiny, Spider-Man&reg;: Web of Shadows puts control in your hands.\r\nDecide when to switch between the agile Red Suit and formidable Black Suit, whether to ally with Marvel's honored heroes or ferocious villains, which of Spider-Man's abilities to upgrade, and what missions to undertake in order to protect Manhattan from certain annihilation.",
+            "id": 34740,
+            "name": "Spider-Man: Web of Shadows",
+            "deck": "Spider-Man: Web of Shadows is an action adventure game that will have you playing as a hero or a villain in a free-roaming environment.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/9/3/0/8/2219308-spidey_cover.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/9/3/0/8/2219308-spidey_cover.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/9/3/0/8/2219308-spidey_cover.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/9/3/0/8/2219308-spidey_cover.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-34740",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-34740",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-34740",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-34740",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-34740",
+            "site_detail_url": "https://www.gamespot.com/spider-man-web-of-shadows/"
+        },
+        {
+            "release_date": "2007-12-31 12:00:00",
+            "description": "",
+            "id": 583732,
+            "name": "Spider-Man 3 (2007)",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583732",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583732",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583732",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583732",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583732",
+            "site_detail_url": "https://www.gamespot.com/spider-man-3-2007/"
+        },
+        {
+            "release_date": "2007-10-02 12:00:00",
+            "description": "Spider-Man: Friend or Foe challenges players to defeat and then join forces with notorious movie nemeses including Doc Ock, Green Goblin, Venom and Sandman, and other classic Spider-Man characters. Players will embark on a global quest to overcome an evil threat, by controlling Spider-Man and one of numerous Super Hero or Super Villain sidekicks, as they master unique fighting moves and styles while switching between characters to execute team combos and defeat foes. Spider-Man: Friend or Foe features a unique co-op mode in which a friend can join the game at any time and take control of Spidey's sidekick as they battle through the game side-by-side and replay favorite levels.",
+            "id": 30656,
+            "name": "Spider-Man: Friend or Foe",
+            "deck": "Spider-Man fights alongside his notorious enemies, such as Green Goblin and Doc Ock, as they try to defeat an even greater threat.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/8/9/7/8/2218978-box_smanfof.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/8/9/7/8/2218978-box_smanfof.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/8/9/7/8/2218978-box_smanfof.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/8/9/7/8/2218978-box_smanfof.png"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-30656",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-30656",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-30656",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-30656",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-30656",
+            "site_detail_url": "https://www.gamespot.com/spider-man-friend-or-foe/"
+        },
+        {
+            "release_date": "2007-05-31 12:00:00",
+            "description": "",
+            "id": 122157,
+            "name": "Spider-Man (Pinball)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/2/5/4/3/122157-212543.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/2/5/4/3/122157-212543.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/2/5/4/3/122157-212543.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/2/5/4/3/122157-212543.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Pinball"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-122157",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-122157",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-122157",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-122157",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-122157",
+            "site_detail_url": "https://www.gamespot.com/spider-man-pinball/"
+        },
+        {
+            "release_date": "2007-05-04 12:00:00",
+            "description": "Experience an all-new combat system, two exciting ways. Redesigned from the ground up, a unique combat system empowers both Spider-Man and Black-Suited Spider-Man to perform suit-specific powers and abilities. State of the art animations, combos and finishers make punch, kick and web attacks more super-heroic than ever. Battle 10 of Spider-Man-s most infamous enemies from the movie and Marvel universe, including Sandman and Venom.",
+            "id": 26260,
+            "name": "Spider-Man 3",
+            "deck": "Based on Sam Raimi's film of the same name, Spider-Man 3 sees the heroic web-slinger face off against the Sandman.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/1/6/0/9/2211609-box_sman3.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/1/6/0/9/2211609-box_sman3.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/1/6/0/9/2211609-box_sman3.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/1/6/0/9/2211609-box_sman3.png"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-26260",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-26260",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-26260",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-26260",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-26260",
+            "site_detail_url": "https://www.gamespot.com/spider-man-3/"
+        },
+        {
+            "release_date": "2006-12-31 12:00:00",
+            "description": "",
+            "id": 586026,
+            "name": "Vmigo: The Amazing Spider-Man",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-586026",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-586026",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-586026",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-586026",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-586026",
+            "site_detail_url": "https://www.gamespot.com/vmigo-the-amazing-spider-man/"
+        },
+        {
+            "release_date": "2006-12-31 12:00:00",
+            "description": "",
+            "id": 583731,
+            "name": "Spider-Man & The Villain-Round Up",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "Party/Minigame"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583731",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583731",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583731",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583731",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583731",
+            "site_detail_url": "https://www.gamespot.com/spider-man-and-the-villain-round-up/"
+        },
+        {
+            "release_date": "2006-12-31 12:00:00",
+            "description": "Spider-Man has fought for his life before, but never like this. Never with stakes so high, nor the odds stacked so heavily against him. He speed through Manhattan on gossamer lines at a velocity that causes passing skyscrapers to blur in pursuit of one villain, and in turn pursued by two more.\n\nUsing super strength, enhanced reflexes and web-spinning powers he foils the cruel intentions of his enemies while accomplishing mission after mission - all leading to a final confrontation with Venom and Sandman - but ultimately the outcome is in your hands!",
+            "id": 515167,
+            "name": "Spider-Man (HyperScan)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/9/0/8/0/515167-759080.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/9/0/8/0/515167-759080.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/9/0/8/0/515167-759080.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/9/0/8/0/515167-759080.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-515167",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-515167",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-515167",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-515167",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-515167",
+            "site_detail_url": "https://www.gamespot.com/spider-man-hyperscan/"
+        },
+        {
+            "release_date": "2006-11-14 12:00:00",
+            "description": "Spider-Man: Battle for New York allows gamers to take on the role of Spider-Man and one of his famed nemeses, Green Goblin, in an original storyline which builds upon their legendary comic book rivalry. For the first time in a handheld Spider-Man game, players can personalize their gaming experiences by choosing what abilities and powers to upgrade and when, such as Spider-Man's web maneuvers or Green Goblin's fire attacks, as they progress through the game. Playing as both good and evil, gamers will experience levels packed with frenzied action, in-depth combat and a host of unique super moves as they embark on the ultimate quest to save New York City from almost certain disaster.",
+            "id": 27631,
+            "name": "Spider-Man: Battle for New York",
+            "deck": "Spider-Man: Battle for New York lets you play as either Spider-Man or Green Goblin, and features ability and power upgrade options as you play.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/0/0/9/7/2220097-box_smbfny.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/0/0/9/7/2220097-box_smbfny.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/0/0/9/7/2220097-box_smbfny.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/0/0/9/7/2220097-box_smbfny.png"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-27631",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-27631",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-27631",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-27631",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-27631",
+            "site_detail_url": "https://www.gamespot.com/spider-man-battle-for-new-york/"
+        },
+        {
+            "release_date": "2005-09-22 12:00:00",
+            "description": "Based on the comic book of the same name, Ultimate Spider-Man lets you play as either the hero Spider-Man or his arch-nemesis, Venom.  Use the unique combat techniques of either Spider-Man or Venom to battle a host of  Spider-Man characters. Artistic contributions by the creators of the series make for an authentic Spider-Man experience.",
+            "id": 24410,
+            "name": "Ultimate Spider-Man",
+            "deck": "Based on the comic book of the same name, Ultimate Spider-Man lets you play as either the hero Spider-Man or his arch-nemesis, Venom.  Use the unique combat techniques of either Spider-Man or Venom to battle a host of  Spider-Man characters.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/2/6/3/6/2212636-box_usm.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/2/6/3/6/2212636-box_usm.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/2/6/3/6/2212636-box_usm.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/2/6/3/6/2212636-box_usm.png"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-24410",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-24410",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-24410",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-24410",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-24410",
+            "site_detail_url": "https://www.gamespot.com/ultimate-spider-man/"
+        },
+        {
+            "release_date": "2005-09-19 12:00:00",
+            "description": "BE LEGENDARY.\r\nBE PREDATORY.\r\nBE BOTH.\r\nSwing to the rescue as Spider-Man then blaze a path of destruction as Venom. Play both sides in the most ground-breaking Spider-Man experience ever.\r\nExecute airborne rescues as Spider-Man or demolish the city as the evil Venom.\r\nOriginal story and character illustrations by comic book writers Brian Michael Bendis and Mark Bagley.\r\nUse and destroy objects around you and battle against villains from the comic.",
+            "id": 401872,
+            "name": "Ultimate Spider-Man (2005)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/8/6/3/6/24410-68636.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/8/6/3/6/24410-68636.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/8/6/3/6/24410-68636.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/8/6/3/6/24410-68636.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-401872",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-401872",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-401872",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-401872",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-401872",
+            "site_detail_url": "https://www.gamespot.com/ultimate-spider-man-2005/"
+        },
+        {
+            "release_date": "2005-08-31 12:00:00",
+            "description": "Spider-Man\nTwice The Fun.\nRelive the movie and more.\nUnleash cool combat moves against Spider-Man's toughest villains.\n\nSpider-Man 2\nTake New York for a spin.\nBattle Doc Ock and others in huge 3D environments.",
+            "id": 25107,
+            "name": "2 In 1 Game Pack: Spider-Man / Spider-Man 2",
+            "deck": "This collection includes Spider-Man: The Movie and Spider-Man 2 for GBA.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/0/5/6/7/25107-70567.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/0/5/6/7/25107-70567.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/0/5/6/7/25107-70567.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/0/5/6/7/25107-70567.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Compilation"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-25107",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-25107",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-25107",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-25107",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-25107",
+            "site_detail_url": "https://www.gamespot.com/2-in-1-game-pack-spider-man-spider-man-2/"
+        },
+        {
+            "release_date": "2005-08-22 12:00:00",
+            "description": "Twice The Fun.\n\nSpider-Man: Mysterio's Menace\nVictory may only be an illusion.\nTake on Mysterio with unique Spidey powers.\n\nX2: Wolverine's Revenge\nPrepare to meet your makers.\nUnleash justice as the X-Men's most dangerous weapon.",
+            "id": 494808,
+            "name": "2 in 1 Game Pack: Spider-Man: Mysterio's Menace / X2: Wolverine's Revenge",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/7/1/7/4/494808-707174.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/7/1/7/4/494808-707174.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/7/1/7/4/494808-707174.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/7/1/7/4/494808-707174.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Compilation"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Marvel"
+                },
+                {
+                    "name": "X-Men"
+                },
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-494808",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-494808",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-494808",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-494808",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-494808",
+            "site_detail_url": "https://www.gamespot.com/2-in-1-game-pack-spider-man-mysterios-menace-x2/"
+        },
+        {
+            "release_date": "2005-05-31 12:00:00",
+            "description": "",
+            "id": 24749,
+            "name": "Spider-Man 2: The Hero Returns",
+            "deck": "Spider-Man 2: The Hero Returns is a mobile action game based on the recent movie.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/9/6/3/6/24749-69636.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/9/6/3/6/24749-69636.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/9/6/3/6/24749-69636.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/9/6/3/6/24749-69636.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-24749",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-24749",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-24749",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-24749",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-24749",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-the-hero-returns/"
+        },
+        {
+            "release_date": "2005-05-04 12:00:00",
+            "description": "Get immersed in the fast action of Spider-Man 2 3D games. Climb buildings, defeat thugs, chase Doc Ock through the city and face him in a head to head in a battle of all battles featuring advanced 3D graphics. But watch out for the speed and fury of your nemesis, Doc Ock. \n\nUse your Spider sense to avoid his fast tentacles as you leap from building to building and take him out with a final shot of your web.\n\n- Amazing perspective and game views with advanced 3D graphics and game play!\n- Three levels of difficulty to master in order to complete full game.\n- Each action packed chapter inspired from scenes in the Spider-Man 2 motion picture.",
+            "id": 23943,
+            "name": "Spider-Man 2 3D: NY Subway",
+            "deck": "Even if you're a passionate fan of the film or comic, you still won't enjoy this joyless hodgepodge of minigames. At $10, NY Subway is a horrible value, as well as a poor game overall.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/7/3/7/0/23943-67370.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/7/3/7/0/23943-67370.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/7/3/7/0/23943-67370.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/7/3/7/0/23943-67370.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Party/Minigame"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-23943",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-23943",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-23943",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-23943",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-23943",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-3d-ny-subway/"
+        },
+        {
+            "release_date": "2005-03-23 12:00:00",
+            "description": "Scale New Heights.\r\nYou are Spider-Man-slinging webs, scaling walls and performing innovative combos in an attempt to protect New York from the dangerous deeds of Doc Ock and other clasic villains. Prepare for new scenarios in fully immersive 3D environments unlike anything you've seen in a handheld game.\r\n- 19 action-packed levels created exclusively for the PSP handheld.\r\n- Unleash powerful new combos, plus swing, crawl, jump or cocoon your foes.\r\n- Featuring the voices of Tobey Maguire, Alfred Molina and Kirsten Dunst from the hit film.\r\n- Face off with Doc Ock and more Marvel villains: Mysterio, Shocker, Rhino and Vulture.",
+            "id": 405891,
+            "name": "Spider-Man 2 (2005)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/3/6/6/8/18321-53668.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/3/6/6/8/18321-53668.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/3/6/6/8/18321-53668.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/3/6/6/8/18321-53668.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-405891",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-405891",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-405891",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-405891",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-405891",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-2005/"
+        },
+        {
+            "release_date": "2005-01-11 12:00:00",
+            "description": "",
+            "id": 23176,
+            "name": "Spider-Man & Friends",
+            "deck": "Spider-Man and Friends is an educational adventure game for children starring Spider-Man, Wolverine, Captain America, and other Marvel characters.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/5/1/9/7/23176-65197.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/5/1/9/7/23176-65197.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/5/1/9/7/23176-65197.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/5/1/9/7/23176-65197.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Edutainment"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-23176",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-23176",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-23176",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-23176",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-23176",
+            "site_detail_url": "https://www.gamespot.com/spider-man-and-friends/"
+        },
+        {
+            "release_date": "2004-12-31 12:00:00",
+            "description": "",
+            "id": 583730,
+            "name": "Spider-Man (2004)",
+            "deck": "",
+            "image": null,
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-583730",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-583730",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-583730",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-583730",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-583730",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2004/"
+        },
+        {
+            "release_date": "2004-09-20 12:00:00",
+            "description": "Get immersed in all the fast action of Spider-Man 2 3D: NY Rooftops - the first in three chapters of a fast paced action games with truly amazing 3D graphics. \n\nThis game features immersive 3D action-adventures, based upon key scenes from the film including New York City Rooftops. The player acts as Spider-Man as he leaps, swings and soars through the city, defeating thugs and ultimately facing off with Doc Ock. This 3D game features superior graphics and sound and showcase the advanced capabilities of new mobile handsets.",
+            "id": 23050,
+            "name": "Spider-Man 2 3D: NY Rooftops",
+            "deck": "From start to finish, Spider-Man 3D: NY Rooftops feels like a soulless tech demo.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/4/8/6/8/23050-64868.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/4/8/6/8/23050-64868.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/4/8/6/8/23050-64868.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/4/8/6/8/23050-64868.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Party/Minigame"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-23050",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-23050",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-23050",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-23050",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-23050",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-3d-ny-rooftops/"
+        },
+        {
+            "release_date": "2004-06-29 12:00:00",
+            "description": "TAKE NEW YORK FOR A SPIN.\n\nTwo years after becoming Spider-Man, you face your toughest enemy yet - the dangerous Doc Ock. Now the city of New York is relying on you to save it from his reckless rampage. \n\nTaking on the role of the famed super hero Spider-Man, mobile gamers will be able to swing, web sling and jump through four fully 3D levels, providing an amazingly dynamic environment on a handheld gaming device. Fifteen additional 2D levels provide a challenging arena to combat a wide range of enemies, including new enemy bosses such as the Lizard and Doc Ock that have their own unique attack moves. Web slinging gamers will also be able to upload their best performances to the N-Gage Arena, as well as unlock additional content for the game. \n\nThe engrossing plotline is revealed through 3D cutscenes that will inspire players to explore completely new 3D levels and hunt for power-ups, secrets and special items.",
+            "id": 401871,
+            "name": "Spider-Man 2 (2004)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/3/6/6/6/18321-53666.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/3/6/6/6/18321-53666.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/3/6/6/6/18321-53666.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/3/6/6/6/18321-53666.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-401871",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-401871",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-401871",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-401871",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-401871",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-2004/"
+        },
+        {
+            "release_date": "2004-06-28 12:00:00",
+            "description": "Two years after becoming Spider-Man, you face your toughest enemy yet - the dangerous Doo Dok! Now the city of New York is relying on you to save it from the reckless rampage.",
+            "id": 404810,
+            "name": "Spider-Man 2: The Game",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/3/6/6/3/18321-53663.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/3/6/6/3/18321-53663.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/3/6/6/3/18321-53663.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/3/6/6/3/18321-53663.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-404810",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-404810",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-404810",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-404810",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-404810",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-the-game/"
+        },
+        {
+            "release_date": "2004-06-28 12:00:00",
+            "description": "TAKE NEW YORK FOR A SPIN.\n\nTwo years after becoming Spider-Man, you face your toughest enemy yet - the dangerous Doc Ock. Now the city of New York is relying on you to save it from his reckless rampage.",
+            "id": 18321,
+            "name": "Spider-Man 2",
+            "deck": "Spider-Man 2 is a good game, but its repetitive gameplay, combined with an open-ended design, also makes it feel like a missed opportunity.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/9/5/4/4/2209544-box_sm2.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/9/5/4/4/2209544-box_sm2.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/9/5/4/4/2209544-box_sm2.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/9/5/4/4/2209544-box_sm2.png"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Sci-Fi"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-18321",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-18321",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-18321",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-18321",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-18321",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2/"
+        },
+        {
+            "release_date": "2004-06-28 12:00:00",
+            "description": "Just like Spider-Man, kids can swing from the rooftops of Manhattan fighting crime and battling the evil Doc Ock in an interactive learning environment. Spider-Man Activity Center features seven challenging activities based on specific movie events that all take place in key locations. The game's activities involve saving Mary Jane, identifying the criminals, creating mixtures in the lab, and more. Actors from the movie Spider-Man 2 lend their voices to the game.",
+            "id": 23479,
+            "name": "Spider-Man 2 Activity Center",
+            "deck": "Now younger children can participate in all the action of the Spider-Man 2--the movie based on Marvel popular superhero. Spider-Man 2 Activity Center features seven puzzles and minigames targeted at kids between four and eight years old.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/5/9/5/9/23479-65959.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/5/9/5/9/23479-65959.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/5/9/5/9/23479-65959.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/5/9/5/9/23479-65959.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Edutainment"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-23479",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-23479",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-23479",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-23479",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-23479",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-activity-center/"
+        },
+        {
+            "release_date": "2004-05-12 12:00:00",
+            "description": "A multi-level action-adventure game where Spider-Man battles his arch nemesis, Doc Ock on rooftops and through New York subways resulting in a final pier showdown.",
+            "id": 21215,
+            "name": "Spider-Man vs. Doc Ock",
+            "deck": "Spidey's mobile adventure is uneventful and repetitive, leaving its decent graphics and simple but reliable control as its only positive features.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1440/14409144/2230808-default-art--square.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1440/14409144/2230808-default-art--square.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-21215",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-21215",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-21215",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-21215",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-21215",
+            "site_detail_url": "https://www.gamespot.com/spider-man-vs-doc-ock/"
+        },
+        {
+            "release_date": "2004-05-12 12:00:00",
+            "description": "A fast-paced action pinball game, themed with Spider-Man & Doc Ock characters on an extended screen game table. Unique to the game are on-screen interactive challenges which are unlocked as the player builds points and bonus tricks. Dynamic sound effects and Spider-Man animations throughout add up to create an immersive pinball experience.",
+            "id": 21985,
+            "name": "Spider-Man 2 Pinball",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1440/14409144/2230808-default-art--square.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1440/14409144/2230808-default-art--square.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Pinball"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-21985",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-21985",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-21985",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-21985",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-21985",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-pinball/"
+        },
+        {
+            "release_date": "2003-12-10 12:00:00",
+            "description": "In his attempt to conquer the world, Green Goblin is getting his thugs to kidnap citizens of the city and he is demanding a high ransom for their safe return. Spider-Man must go through the city finding these hostages and free them from their captors. Each time Spider-Man rescues the hostages; Green Goblin gets more furious and bids revenge by kidnapping more people and holding them in different areas of the city. Catch up with The Green Goblin, foil his plan, and save the city. \n\nThere are 5 levels in the game; the game is set in areas of New York City.\n1. 28th Street \n2. Brooklyn Warehouse \n3. Harlem \n4. Broadway Theatre \n5. Goblin's Den \n\nThe game will be saved at the last level that you completed and the number of lives will be the same as they were when you started that particular level the last time. But on selecting new game the saved game will be erased.",
+            "id": 20582,
+            "name": "Spider-Man (2003)",
+            "deck": "This version of Spider-Man only barely manages to evoke the webslinger.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/9/5/7/2/20582-59572.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/9/5/7/2/20582-59572.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/9/5/7/2/20582-59572.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/9/5/7/2/20582-59572.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Fighting"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-20582",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-20582",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-20582",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-20582",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-20582",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2003/"
+        },
+        {
+            "release_date": "2002-04-16 12:00:00",
+            "description": "Spider bites can sometimes turn you into a superhero, as in the case of Peter Parker in Spider-Man: The Movie.  Assume the role of Peter, a good-hearted teenager bitten by a genetically engineered spider, which gives him muscles, incredible strength, and spider-like abilities.  You'll have to learn how to control your powers including Spider Sense, web-slinging, and wall crawling, and the all-new aerial combat moves.  The world's toughest villains, including Shocker, Vulture, and the Green Goblin will all be after you.  Are you up for the challenge?",
+            "id": 3704,
+            "name": "Spider-Man: The Movie",
+            "deck": "It makes perfect sense that the core gameplay of Spider-Man: The Movie is similar to previous Spider-Man games--but that its graphics really show off what the Xbox can do.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/3/0/2/6/2213026-box_sman.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/3/0/2/6/2213026-box_sman.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/3/0/2/6/2213026-box_sman.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/3/0/2/6/2213026-box_sman.png"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-3704",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-3704",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-3704",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-3704",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-3704",
+            "site_detail_url": "https://www.gamespot.com/spider-man-the-movie/"
+        },
+        {
+            "release_date": "2002-04-16 12:00:00",
+            "description": "Bitten by a genetically engineered spider, high school student Peter Parker is suddenly empowered with supernatural abilities, including Spider-Sense, web-slinging and wall crawling. Assume the role of Parker as he adapts to his new powers and becomes Spider-Man. But beware--the city's villains won't be pleased to see a new hero on the scene.",
+            "id": 401873,
+            "name": "Spider-Man (2002)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/4/6/6/3/3704-14663.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/4/6/6/3/3704-14663.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/4/6/6/3/3704-14663.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/4/6/6/3/3704-14663.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-401873",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-401873",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-401873",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-401873",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-401873",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2002/"
+        },
+        {
+            "release_date": "2001-10-19 12:00:00",
+            "description": "The city is at risk, and only you can save it from the evil clutches of an old enemy: the powerful Electro. He has a mysterious new device that will make his million volts of destruction even more deadly. But, with Spider-Man on the job, Electro is in for the shock of his life.",
+            "id": 3462,
+            "name": "Spider-Man 2: Enter: Electro",
+            "deck": "Die-hard webheads will no doubt complete the game several times to unlock all the hidden costumes and comic book cover galleries.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/3/5/9/8/3462-13598.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/3/5/9/8/3462-13598.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/3/5/9/8/3462-13598.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/3/5/9/8/3462-13598.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Sci-Fi"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-3462",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-3462",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-3462",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-3462",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-3462",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-enter-electro/"
+        },
+        {
+            "release_date": "2001-09-19 12:00:00",
+            "description": "Mysterio, the Master of Illusion, is using his powers to change New York City into his very own sinister amusement park. Lucky for the Big Apple, he's forgotten one thing: you're Spider-Man, and for one power-hungry super-villain, that means playtime's over.",
+            "id": 3399,
+            "name": "Spider-Man: Mysterio's Menace",
+            "deck": "Spider-Man: Mysterio's Menace is seven full levels of original gameplay steeped in old-school trickery.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/8/5/8/3/2218583-box_smanmm.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/8/5/8/3/2218583-box_smanmm.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/8/5/8/3/2218583-box_smanmm.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/8/5/8/3/2218583-box_smanmm.png"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-3399",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-3399",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-3399",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-3399",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-3399",
+            "site_detail_url": "https://www.gamespot.com/spider-man-mysterios-menace/"
+        },
+        {
+            "release_date": "2001-05-30 12:00:00",
+            "description": "Evil has a plan...do whatever a spider can!\n\nWhen Aunt May is kidnapped by Doc Ock and his band of super villains, you're off to the rescue! But this kidnapping is just a ploy to lure you into battle and end your days as a super hero. Can you survive their evil trap?\n\n* All-New Attacks\nSpin kicks and immobilizing webbing are just what the spider ordered.\n\n* All Your Favorite Villains\nMystero, Doc Ock and others making New York a swinging nightmare.\n\n* All-New Power-Ups\nUse the Spidey armor to bash enemies and bring Aunt May home.\n\nYOU DON'T JUST PLAY IT...YOU LIVE IT!",
+            "id": 3546,
+            "name": "Spider-Man 2: The Sinister Six",
+            "deck": "Even though it's only a subtle remake, fans of the webbed wonder will no doubt enjoy everything that Spider-Man 2: The Sinister Six has to offer.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/6/0/2/7/2216027-box_sman2tss.png",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/6/0/2/7/2216027-box_sman2tss.png",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/6/0/2/7/2216027-box_sman2tss.png",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/6/0/2/7/2216027-box_sman2tss.png"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-3546",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-3546",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-3546",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-3546",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-3546",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2-the-sinister-six/"
+        },
+        {
+            "release_date": "2000-12-31 12:00:00",
+            "description": "",
+            "id": 528590,
+            "name": "Spider-Man / X-Men: Mutant Academy",
+            "deck": "",
+            "image": null,
+            "genres": [],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "X-Men"
+                },
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-528590",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-528590",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-528590",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-528590",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-528590",
+            "site_detail_url": "https://www.gamespot.com/spider-man-x-men-mutant-academy/"
+        },
+        {
+            "release_date": "2000-08-31 12:00:00",
+            "description": "You don't just play it... you live it.\r\nHe shoots a web, swings across the sky and lands with a somersault onto the Daily Bugle building.\r\nWho is this masked hero? It's you!\r\nFight, jump and web-sling as Spider-Man as you take on a legion of sinister villains.\r\nThe city is depending on you. Start swinging...\r\nWall-crawl and web-sling in a totally free-roaming New York.\r\nFight notorious bosses and an assortment of freak-specimens, criminals and tunnel dwellers.\r\nWeb shots and spider-sense let you crush your enemies' sinister plans.",
+            "id": 426325,
+            "name": "Spider-Man (GBC)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/0/8/4/9/2812-10849.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/0/8/4/9/2812-10849.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/0/8/4/9/2812-10849.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/0/8/4/9/2812-10849.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-426325",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-426325",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-426325",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-426325",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-426325",
+            "site_detail_url": "https://www.gamespot.com/spider-man-gbc/"
+        },
+        {
+            "release_date": "2000-08-30 12:00:00",
+            "description": "YOU DON'T JUST PLAY IT... YOU LIVE IT \n\nHe spins a web, swings across the sky and lands with a somersault onto the Daily Bugle building. Who is this masked hero? It's you! Fight, jump and web-sling as Spider-Man as you take on a legion of sinister villains.\n\nThe city is depending on you. Start swinging...",
+            "id": 426323,
+            "name": "Spider-Man (2000)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/0/8/3/9/2812-10839.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/0/8/3/9/2812-10839.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/0/8/3/9/2812-10839.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/0/8/3/9/2812-10839.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-426323",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-426323",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-426323",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-426323",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-426323",
+            "site_detail_url": "https://www.gamespot.com/spider-man-2000/"
+        },
+        {
+            "release_date": "1996-12-31 12:00:00",
+            "description": "A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.",
+            "id": 15268,
+            "name": "The Amazing Spider-Man: Web of Fire",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/0/8/7/3/2210873-spiderman_weboffire.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/0/8/7/3/2210873-spiderman_weboffire.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/0/8/7/3/2210873-spiderman_weboffire.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/0/8/7/3/2210873-spiderman_weboffire.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-15268",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-15268",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-15268",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-15268",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-15268",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-web-of-fire/"
+        },
+        {
+            "release_date": "1996-12-31 12:00:00",
+            "description": "You Are Spider-Man. Can You Survive Six of Your Deadliest Foes?\nMarvel Comics Spider-Man: The Sinister Six is the ultimate action-adventure, featuring everyone's favorite wall-crawler. Face down your arch-enemies, The Sinister Six: Dr. Octopus, Hobgoblin, Shocker, Chameleon, Mysterio, and Vulture.\nWhen Spidey's nefarious nasties join forces to frame the Web-Slinger, you must solve puzzles, blast through deadly combat sequences, and fight to save New York. You'll need all of your spider-powers--and all the skills of your alter ego, Peter Parker.\nThe renowned Marvel Comics characters come to life in a mind-blowing mix of fast-paced action, gorgeous animation, 3-D backgrounds, an original music score, and a stellar cast.\n- Cool Spider-Man computer graphics\n- Four difficulty settings let you determine the challenge\n- Six different story lines and outcomes based on how you play\n- Web-spinning, wall-crawling action sequences\n- Brain-teasing mind-bending puzzles\n- The first software that lets you be both Spider-Man and Peter Parker\n- Direct link to the Spider-Man: The Sinister Six World Wide Web site!\nThe #1 rated Super Hero from Marvel Comics!",
+            "id": 65230,
+            "name": "Spider-Man: The Sinister Six",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/5/5/3/8/2225538-img_20100911_090047.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/5/5/3/8/2225538-img_20100911_090047.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/5/5/3/8/2225538-img_20100911_090047.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/5/5/3/8/2225538-img_20100911_090047.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-65230",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-65230",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-65230",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-65230",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-65230",
+            "site_detail_url": "https://www.gamespot.com/spider-man-the-sinister-six/"
+        },
+        {
+            "release_date": "1995-06-21 12:00:00",
+            "description": "Parting is such sweet sorrow! Venom has been violently split from his living costume, spawning five deadly alien Symbiotes. In fierce two-player action, Venom joins forces with his arch-enemy, Spider-Man, to face the new strain of evil brought to life by chilling, computer-rendered graphics. Between the merciless Jury and awesome allies like Ghost Rider and Daredevil, Venom's out to part his Symbiote offspring from their newfound life!",
+            "id": 16420,
+            "name": "Venom - Spider-Man: Separation Anxiety",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/0/8/5/5/2210855-genesis_spidermanandvenomseperationaxiety.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/0/8/5/5/2210855-genesis_spidermanandvenomseperationaxiety.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/0/8/5/5/2210855-genesis_spidermanandvenomseperationaxiety.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/0/8/5/5/2210855-genesis_spidermanandvenomseperationaxiety.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-16420",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-16420",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-16420",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-16420",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-16420",
+            "site_detail_url": "https://www.gamespot.com/spider-man-and-venom-separation-anxiety/"
+        },
+        {
+            "release_date": "1995-03-17 12:00:00",
+            "description": "",
+            "id": 9103,
+            "name": "The Amazing Spider-Man: Lethal Foes",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/1/8/4/3/9103-31843.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/1/8/4/3/9103-31843.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/1/8/4/3/9103-31843.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/1/8/4/3/9103-31843.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-9103",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-9103",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-9103",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-9103",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-9103",
+            "site_detail_url": "https://www.gamespot.com/spider-man-lethal-foes/"
+        },
+        {
+            "release_date": "1995-02-28 12:00:00",
+            "description": "Spider-Man's past comes back to haunt him when more maniacal madmen than you can count on two webbed hands bust out of prison and team up to settle the score against him. Only your Spider-Sense, wall-climbing ability, web-swinging maneuvers and a little help from the Fantastic Four can even the odds! The hunt is on... but who's the prey?",
+            "id": 426324,
+            "name": "Spider-Man (Animated Series)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/0/8/5/4/2812-10854.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/0/8/5/4/2812-10854.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/0/8/5/4/2812-10854.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/0/8/5/4/2812-10854.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-426324",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-426324",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-426324",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-426324",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-426324",
+            "site_detail_url": "https://www.gamespot.com/spider-man-animated-series/"
+        },
+        {
+            "release_date": "1994-09-16 12:00:00",
+            "description": "Only one maniacal madman can force Spider-Man to unite with his sinister, arch-nemesis Venom: CARNAGE! His deadly rampage is tearing New York City apart! Only wild web-slinging maneuvers, crushing combat moves and Super Hero allies can save the city from total obliteration! It's maximum mayhem! It's Maximum Carnage! Paint the town red!",
+            "id": 16305,
+            "name": "Spider-Man & Venom: Maximum Carnage",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/8/8/5/6/2218856-genesis_spidermanandvenommaximumcarnage.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/8/8/5/6/2218856-genesis_spidermanandvenommaximumcarnage.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/8/8/5/6/2218856-genesis_spidermanandvenommaximumcarnage.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/8/8/5/6/2218856-genesis_spidermanandvenommaximumcarnage.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-16305",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-16305",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-16305",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-16305",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-16305",
+            "site_detail_url": "https://www.gamespot.com/spider-man-and-venom-maximum-carnage/"
+        },
+        {
+            "release_date": "1993-11-03 12:00:00",
+            "description": "Enter a vicious web of danger and disaster! The Kingpin of Crime frames Spider-Man for planting a bomb in New York; and Spidey's only hope is to find the keys to the bomb's location before it explodes. Help Spider-Man stick it to the Kingpin and his horde of vicious assassins along the way. Enter hand-to-hand combat with Dr. Octopus! Put the Sandman to sleep! Use dazzling acrobatics to take on the Lizard, Hobgoblin and Venom! Dodge Electro's amped-up charge! Don't be fooled by the new trickery of Mysterio and the villainy of the Vulture! Take aim with Spidey's gadgets. Shoot webs! Stick to walls and ceilings! Swing from skyscrapers!",
+            "id": 21415,
+            "name": "The Amazing Spider-Man vs. the Kingpin",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/9/0/3/1/2219031-genesis_spiderman.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/9/0/3/1/2219031-genesis_spiderman.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/9/0/3/1/2219031-genesis_spiderman.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/9/0/3/1/2219031-genesis_spiderman.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-21415",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-21415",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-21415",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-21415",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-21415",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-vs-the-kingpin/"
+        },
+        {
+            "release_date": "1993-07-31 12:00:00",
+            "description": "Spidey's in a web of trouble! Razor-winged, bolt-firing, mechanoid Spider Slayers want to slide and dice him! Electro and Scorpion are trying to fry him with bolts of electricity! But on-screen Spider-Sense and devastating new combat moves mean it ain't over 'till Spidey says it's over!\r\n\r\n- Take to the unfriendly skies.\r\n- Shock Electro with new combat moves!\r\n- Swing into action against bolt-firing spider-slayers!\r\n- Beware the Scorpion's sting!",
+            "id": 16054,
+            "name": "Spider-Man 3: Invasion of the Spider-Slayers",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/4/3/5/7/2214357-585909_38721_front.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/4/3/5/7/2214357-585909_38721_front.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/4/3/5/7/2214357-585909_38721_front.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/4/3/5/7/2214357-585909_38721_front.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-16054",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-16054",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-16054",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-16054",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-16054",
+            "site_detail_url": "https://www.gamespot.com/spider-man-3-invasion-of-the-spider-slayers/"
+        },
+        {
+            "release_date": "1992-11-30 12:00:00",
+            "description": "Spider-Man and his mutant pals need your help to escape from Arcade's diabolical amusement park - battling killer clowns, hungry piranhas, lethal doom balls and deadly robot replicas of super-villains like Carnage and Juggernaut! Will Spidey's webs, Wolverine's claws, Gambit's energy cards, Storm's lightning bolts and Cyclops' optic blasts mean GAME OVER for Arcade? That depends on YOU!!",
+            "id": 16053,
+            "name": "Spider-Man / X-Men: Arcade's Revenge",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/3/9/3/8/2213938-586479_46791_front.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/3/9/3/8/2213938-586479_46791_front.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/3/9/3/8/2213938-586479_46791_front.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/3/9/3/8/2213938-586479_46791_front.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "X-Men"
+                },
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-16053",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-16053",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-16053",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-16053",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-16053",
+            "site_detail_url": "https://www.gamespot.com/spider-man-x-men-arcades-revenge/"
+        },
+        {
+            "release_date": "1992-10-31 12:00:00",
+            "description": "Doctor Octopus is planning the crowning caper of his criminal career... TO RULE THE WORLD! He has reunited the Sinister Six: Electro, Sandman, Mysterio, The Vulture and Hobgoblin. Nothing stands in the way of these reunited Super Villains... except your friendly neighborhood Spider-Man! Can Spidey save the world? Are his super-powers enough to defeat the Sinister Six or is this more than even Spider-Man can handle? Only you hold the answer because YOU are Spider-Man, swinging into the hottest Master System adventure yet!",
+            "id": 5510,
+            "name": "Spider-Man: Return of the Sinister Six",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/2/2/4/3/5510-22243.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/2/2/4/3/5510-22243.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/2/2/4/3/5510-22243.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/2/2/4/3/5510-22243.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-5510",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-5510",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-5510",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-5510",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-5510",
+            "site_detail_url": "https://www.gamespot.com/spider-man-return-of-the-sinister-six/"
+        },
+        {
+            "release_date": "1992-08-31 12:00:00",
+            "description": "Whenever J. Jonah puts me on the front page, it's gotta be bad news... \"Spider-Man Wanted in Daring Daylight Robbery!\" Hmm, I don't need my spider-sense to know that something mysterious is going on here. Better get swinging if I'm going to get to the bottom of this mess... alive!",
+            "id": 5371,
+            "name": "The Amazing Spider-Man 2 (1992)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/1/1/4/3/5371-21143.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/1/1/4/3/5371-21143.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/1/1/4/3/5371-21143.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/1/1/4/3/5371-21143.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Sci-Fi"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-5371",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-5371",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-5371",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-5371",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-5371",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-2-1992/"
+        },
+        {
+            "release_date": "1991-12-31 12:00:00",
+            "description": "",
+            "id": 15146,
+            "name": "Spider-Man: The Video Game",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1440/14409144/2230808-default-art--square.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1440/14409144/2230808-default-art--square.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-15146",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-15146",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-15146",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-15146",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-15146",
+            "site_detail_url": "https://www.gamespot.com/spider-man-the-video-game/"
+        },
+        {
+            "release_date": "1991-08-31 12:00:00",
+            "description": "",
+            "id": 2812,
+            "name": "Spider-Man (1991)",
+            "deck": "Spider-Man fans should be pleased to know that the video game world has been blessed with an excellent framework on which to base future Spider-Man games - and an exceptional game to boot.",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/mig/0/2/1/0/2210210-2374524-genesis_spiderman_2.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/mig/0/2/1/0/2210210-2374524-genesis_spiderman_2.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/mig/0/2/1/0/2210210-2374524-genesis_spiderman_2.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/mig/0/2/1/0/2210210-2374524-genesis_spiderman_2.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Adventure"
+                }
+            ],
+            "themes": [
+                {
+                    "name": "Sci-Fi"
+                }
+            ],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-2812",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-2812",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-2812",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-2812",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-2812",
+            "site_detail_url": "https://www.gamespot.com/spider-man-1991/"
+        },
+        {
+            "release_date": "1990-07-31 12:00:00",
+            "description": "So you think the life of a Marvel superhero is easy? Wrong! Take Spider-Man for example. While he's out protecting decent folk, a group of evil mutants kidnap his wife and threaten to \"neutralize\" her of their demands aren't met. Now Spidey's got to get her back before something terrible happens. It won't be easy though, because he's got the likes of Hobgoblin, Mysterio, Dr. Octopus and some of Marvel's other favorite \"baddies\" stand in his way.\n\nSo, if you feel up to the challenge and you're ready for some serious wall-crawling, make sure your web spinners are full and batteries fresh before you tackle this Game Boy adventure. We're sure you'll be playing this one for a long, long time.",
+            "id": 466953,
+            "name": "The Amazing Spider-Man (1990)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/4/6/1/7/6118-24617.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/4/6/1/7/6118-24617.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/4/6/1/7/6118-24617.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/4/6/1/7/6118-24617.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-466953",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-466953",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-466953",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-466953",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-466953",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-1990/"
+        },
+        {
+            "release_date": "1989-12-31 12:00:00",
+            "description": "Dr. Doom's Revenge! The evil genius Dr. Doom has stolen a U.S. Nuclear missile, and now threatens to detonate it over New York City if his demands aren't met.",
+            "id": 6936,
+            "name": "The Amazing Spider-Man and Captain America in Doctor Doom's Revenge",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/1440/14409144/2230808-default-art--square.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/1440/14409144/2230808-default-art--square.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/1440/14409144/2230808-default-art--square.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Beat-'Em-Up"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                },
+                {
+                    "name": "Captain America"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-6936",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-6936",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-6936",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-6936",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-6936",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-and-captain-america-in/"
+        },
+        {
+            "release_date": "1989-12-31 12:00:00",
+            "description": "Spider-Man is fighting on Mysterio's turf - six movie sets packed with robots, electrified floors, doors that aren't really there and walls coated with a chemical that keeps Spidey's webs from sticking! Mysterio has even turned gravity upside-down and sideways in some of his scenes!\r\nSpider-Man needs your help to stay alive and figure out the series of switches that turn Mysterio's tricks on and off. Your goal is to guide Spider-Man to the studio's executive suite where Mysterio is holding Mary Jane.",
+            "id": 6118,
+            "name": "The Amazing Spider-Man (1989)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/4/6/1/4/6118-24614.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/4/6/1/4/6118-24614.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/4/6/1/4/6118-24614.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/4/6/1/4/6118-24614.jpg"
+            },
+            "genres": [
+                {
+                    "name": "2D"
+                },
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Platformer"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-6118",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-6118",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-6118",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-6118",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-6118",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-1989/"
+        },
+        {
+            "release_date": "1985-12-31 12:00:00",
+            "description": "Listen up, True Believer! The world's premier comics company has joined with the originator of Adventure games to bring you the awesome QUESTPROBE Series: an epic group of home-computer Adventures by Marvel Comics and Scott Adams in which YOU become the greatest Marvel Super Heroes.\n\nMuch more than an arcade game and recommended by educators around the world, an Adventure allows you to move through a wonderous electronic world by entering English commands. In the Spider-Man Adventure you must prove to the Chief Examiner that you can utilize the powers of Spider-Man. Your objective is twofold: to unlock the riddle of the Chief Examiner and...to survive!",
+            "id": 13478,
+            "name": "Questprobe featuring Spider-Man",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/1/7/0/1/13478-41701.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/1/7/0/1/13478-41701.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/1/7/0/1/13478-41701.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/1/7/0/1/13478-41701.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Adventure"
+                },
+                {
+                    "name": "Text-Based"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                },
+                {
+                    "name": "Questprobe"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-13478",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-13478",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-13478",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-13478",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-13478",
+            "site_detail_url": "https://www.gamespot.com/questprobe-featuring-spider-man/"
+        },
+        {
+            "release_date": "1982-12-31 12:00:00",
+            "description": "In this exciting SPIDER-MAN adventure, the GREEN GOBLIN has set out to destroy New York City. Only you can save the bustling metropolis - because you're SPIDER-MAN! Quickly slip into your costume, check your web fluid cartridges, and get set to web-swing through this most dangerous mission!",
+            "id": 5333,
+            "name": "Spider-Man (1982)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/0/9/3/2/5333-20932.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/0/9/3/2/5333-20932.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/0/9/3/2/5333-20932.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/0/9/3/2/5333-20932.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Action"
+                },
+                {
+                    "name": "Arcade"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-5333",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-5333",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-5333",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-5333",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-5333",
+            "site_detail_url": "https://www.gamespot.com/spider-man-1982/"
+        },
+        {
+            "release_date": "1980-05-31 12:00:00",
+            "description": "GOTTLIEB presents Marvel's THE AMAZING SPIDER-MAN. Spider-Man - the premier game in Gottlieb's new \"Star Series 80\" starring \"System 80\" and \"Dimension 80\". \n\nWhat more appropriate theme for Gottlieb's first \"Star Series 80\" game than Marvel Comic's universally recognized adventure character Spider-Man? And the game teems with brilliant new playfield features made possible through the new \"Dimension 80\" playfield size and \"System 80\" electronics. A new level of sophistication including the unique \"roving\" light feature continually tantalizes the player. Alternate opportunities to complete scoring objectives leading to the elusive free game and extra ball abound and make the impulse to play Spider-Man a continuing compulsion.",
+            "id": 211331,
+            "name": "The Amazing Spider-Man (1980)",
+            "deck": "",
+            "image": {
+                "square_tiny": "https://www.gamespot.com/a/uploads/square_tiny/box/9/3/0/8/211331-319308.jpg",
+                "screen_tiny": "https://www.gamespot.com/a/uploads/screen_tiny/box/9/3/0/8/211331-319308.jpg",
+                "square_small": "https://www.gamespot.com/a/uploads/square_small/box/9/3/0/8/211331-319308.jpg",
+                "original": "https://www.gamespot.com/a/uploads/original/box/9/3/0/8/211331-319308.jpg"
+            },
+            "genres": [
+                {
+                    "name": "Pinball"
+                }
+            ],
+            "themes": [],
+            "franchises": [
+                {
+                    "name": "Spider-Man"
+                }
+            ],
+            "images_api_url": "https://www.gamespot.com/api/images/?filter=association:5000-211331",
+            "reviews_api_url": "https://www.gamespot.com/api/reviews/?filter=association:5000-211331",
+            "articles_api_url": "https://www.gamespot.com/api/articles/?filter=association:5000-211331",
+            "videos_api_url": "https://www.gamespot.com/api/videos/?filter=association:5000-211331",
+            "releases_api_url": "https://www.gamespot.com/api/releases/?filter=association:5000-211331",
+            "site_detail_url": "https://www.gamespot.com/the-amazing-spider-man-1980/"
+        }
+    ],
+    "version": "1.0"
+}

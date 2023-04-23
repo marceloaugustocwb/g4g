@@ -412,6 +412,11 @@
 			<meta property="og:image" content="{{ .Params.Header.Image | relURL }}" /> 
 			<meta name="twitter:image" content="{{ .Params.Header.Image | relURL }}" />
 			<meta name="twitter:image:src" content="{{ .Params.Header.Image | relURL }}" /> 
+		{{ else if .Params.Image }}
+			<meta itemprop="image" content="{{ .Params.Image | relURL }}" />
+			<meta property="og:image" content="{{ .Params.Image | relURL }}" /> 
+			<meta name="twitter:image" content="{{ .Params.Image | relURL }}" />
+			<meta name="twitter:image:src" content="{{ .Params.Image | relURL }}" /> 
 		{{ else }}
 			<meta itemprop="image" content="https://gamerforgamer.com/images/logo-gamer-for-gamer.png" />
 			<meta property="og:image" content="https://gamerforgamer.com/images/logo-gamer-for-gamer.png" />
