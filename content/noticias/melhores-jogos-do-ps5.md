@@ -1,6 +1,7 @@
 ---
 date: 2023-04-25T03:00:00.000Z
-tags: PS5
+tags: 
+  - PS5
 title: 'Os melhores jogos de PS5 até hoje [ATUALIZADO]'
 excerpt: |
   Os melhores jogos para você jogar e aproveitar ao máximo o seu PS5.

@@ -1,6 +1,7 @@
 ---
 date: 2023-04-23T03:00:00.000Z
-tags: Video game portátil
+tags: 
+  - Video game portátil
 title: 'Melhores video game portátil - Steam Deck, Nitendo Switch e muito mais!'
 excerpt: >
   Descubra os melhores consoles portáteis para jogar em qualquer lugar: Nintendo

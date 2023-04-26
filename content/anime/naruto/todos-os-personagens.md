@@ -7,7 +7,8 @@ excerpt: >
   curiosidades e lista de personagens.
 authors: Marcelo Augusto
 image: /personagens-do-naruto.webp
-tags: Naruto
+tags: 
+  - Naruto
 ---
 
 # Naruto, sua história e personagens

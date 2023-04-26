@@ -1,12 +1,22 @@
-<ul>
-    {{ $currentPage := . }}
-    {{ range .Site.Menus.main }}
-        <li>
-            <a href="{{ .URL }}">
-                {{ .Pre }}
-                <span>{{ .Name }}</span>
-                {{ .Post }}
+{{ with .Params.tags }}
+    <ul id="tags">
+      {{ range . }}
+        <li> 
+            <a href="{{ "tags/" | absURL }}{{ . | urlize }}">
+                <span>{{ . }}</span>
             </a>
         </li>
-    {{ end }}
-</ul>
+      {{ end }}
+    </ul>
+{{ else }}
+    <p>Quer ver conteúdos de qual jogo?</p>
+    <ul class="home">
+        {{ range .Site.Menus.main }}
+            <li>
+                <a href="{{ .URL }}">
+                    <span>{{ .Name }}</span>
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}
