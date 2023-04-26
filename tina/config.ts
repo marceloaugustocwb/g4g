@@ -24,6 +24,7 @@ export default defineConfig({
         name: "post",
         label: "Posts",
         path: "content",
+        format: 'md',
         fields: [
           {
             type: "datetime",
