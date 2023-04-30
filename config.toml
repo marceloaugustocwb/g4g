@@ -1,8 +1,4 @@
-baseURL = "https://gamerforgamer.com/"
-languageCode = "pt-br"
 theme = "tale"
-
-defaultContentLanguage = "pt-br"
 summaryLength="30"
 enableRobotsTXT = true
 paginate=10
@@ -11,15 +7,25 @@ paginate=10
   name = "Marcelo Augusto"
 
 [languages]
-  [languages.pt-br]
-    title = "Gamer For Gamer"
-    languageName = "Português"
-    weight = 1
-
-[sitemap]
-  changefreq = 'monthly'
-  filename = 'sitemap.xml'
-  priority = 0.5
+[languages.pt-br]
+  baseURL = "/"
+  languageCode = 'pt-br'
+  contentDir = 'content'
+  title = "Gamer For Gamer"
+  languageName = "Português"
+  weight = 1
+[languages.en]
+  baseURL = "/en/"
+  languageCode = 'en'
+  contentDir = 'content/en'
+  title = "Gamer For Gamer"
+  languageName = "English"
+  weight = 2
+  [languages.en.menu]
+    [[languages.en.menu.main]]  
+      name = 'Free fire'
+      url = '/tags/free-fire'
+      weight = -10
 
 
 [menu]
@@ -47,3 +53,9 @@ paginate=10
   name = 'God of war'
   url = '/tags/god-of-war/'
   weight = -5
+
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5

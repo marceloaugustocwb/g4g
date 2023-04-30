@@ -3,6 +3,22 @@
 <main id="website">
 	{{ partial "index/introduction.html" . }}
 
+
+	<h2>Quer ver conteúdos de qual jogo?</h2>
+	<nav class="nav">
+		<div class="nav-container header-menu">
+			<ul class="home-menu">
+				{{ range .Site.Menus.main }}
+					<li>
+						<a href="{{ .URL }}">
+							<span>{{ .Name }}</span>
+						</a>
+					</li>
+				{{ end }}
+			</ul>
+		</div>
+	</nav>
+
 	<div class="catalogue">
 		
 		

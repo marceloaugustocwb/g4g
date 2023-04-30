@@ -264,11 +264,11 @@
 			margin-bottom: 15px;
 		}
 
-		nav.nav .header-menu ul.home{
+		ul.home-menu{
 			flex-direction: column;
 		}
 
-		nav.nav .header-menu ul.home li{
+		ul.home-menu li{
 			width: 100%;
 			margin: 0px;
 			margin-bottom: 5px;
@@ -396,6 +396,15 @@
 		</style>
 
 		<link rel="canonical" href="{{ .Permalink }}" />
+		
+
+		<link rel="alternate" hreflang="pt-br" href="https://gamerforgamer.com/" />
+		<link rel="alternate" hreflang="en" href="https://gamerforgamer.com/en/" />
+		{{ if in .Permalink "/en/" }}
+			<meta http-equiv="content-language" content="en" />
+		{{ else }}
+			<meta http-equiv="content-language" content="pt-br" />
+		{{ end }}
 		
 
 		<meta property="og:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}" />
