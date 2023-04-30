@@ -14,19 +14,6 @@ paginate=10
   title = "Gamer For Gamer"
   languageName = "Português"
   weight = 1
-[languages.en]
-  baseURL = "https://gamerforgamer.com/en/"
-  languageCode = 'en'
-  contentDir = 'content/en'
-  title = "Gamer For Gamer"
-  languageName = "English"
-  weight = 2
-  [languages.en.menu]
-    [[languages.en.menu.main]]  
-      name = 'Free fire'
-      url = '/tags/free-fire'
-      weight = -10
-
 
 [menu]
 [[menu.main]]  
