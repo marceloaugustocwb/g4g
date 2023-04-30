@@ -8,14 +8,14 @@ paginate=10
 
 [languages]
 [languages.pt-br]
-  baseURL = "/"
+  baseURL = "https://gamerforgamer.com/"
   languageCode = 'pt-br'
   contentDir = 'content'
   title = "Gamer For Gamer"
   languageName = "Português"
   weight = 1
 [languages.en]
-  baseURL = "/en/"
+  baseURL = "https://gamerforgamer.com/en/"
   languageCode = 'en'
   contentDir = 'content/en'
   title = "Gamer For Gamer"
