@@ -7,7 +7,14 @@
 	<p>{{ .Params.questionContent }}</p>
 	
 	<div class="catalogue">
-		<h2 style="margin-bottom:0px">Nossos conteúdos sobre {{ .Params.nameTag }}</h2>
+
+		{{ if in .Permalink "/categories/" }}
+			<h2 style="margin-bottom:0px">Our content</h2>
+		{{ else }}
+			<h2 style="margin-bottom:0px">Conteúdos</h2>
+		{{ end }}
+
+
 		{{ range (.Paginate .Pages).Pages }}
 			{{ .Render "summary-tags" }}
 		{{ end }}

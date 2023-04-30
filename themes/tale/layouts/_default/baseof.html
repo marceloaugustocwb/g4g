@@ -1,5 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}" class="light">
+
+
+{{ if in .Permalink "/en/" }}
+    <html lang="en" class="light">
+{{ else }}
+    <html lang="pt-br" class="light">
+{{ end }}
+
     {{ partial "head.html" . }}
     <body>
         {{ partial "header.html" . }}
