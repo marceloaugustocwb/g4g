@@ -1,12 +1,23 @@
 		<nav class="nav">
 			<div class="nav-container">
-				<a href="{{ "/" | relURL }}">
-					{{ if .IsPage }}
-						<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
-					{{ else }}
-						<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
-					{{ end }}
-				</a>
+
+				{{ if in .Permalink "/en/" }}
+					<a href="{{ "/en/" | relURL }}">
+						{{ if .IsPage }}
+							<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
+						{{ else }}
+							<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
+						{{ end }}
+					</a>
+				{{ else }}
+					<a href="{{ "/" | relURL }}">
+						{{ if .IsPage }}
+							<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
+						{{ else }}
+							<img src="{{ "images/logo-gamer-for-gamer.png" | relURL }}" alt="logo gamer for gamer" class="logo-site" width="160px" height="53px">
+						{{ end }}
+					</a>
+				{{ end }}
 				<div class="header-menu">
 					{{ partial "header-menu.html" . }}
 				</div>
