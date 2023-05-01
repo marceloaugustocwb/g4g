@@ -10,7 +10,7 @@
 			<ul class="home-menu">
 				{{ range .Site.Menus.main }}
 					<li>
-						<a href="{{ .URL }}">
+						<a href="{{ .URL }}" onclick="gtag('event', 'click', { 'event_category' : 'home-menu', 'event_label' : '{{ .Name }}'});">
 							<span>{{ .Name }}</span>
 						</a>
 					</li>
