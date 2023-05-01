@@ -47,3 +47,7 @@ paginate=10
   name = 'God of war'
   url = '/tags/god-of-war/'
   weight = -5
+[[menu.main]]
+  name = 'Valorant'
+  url = '/tags/valorant/'
+  weight = -4
