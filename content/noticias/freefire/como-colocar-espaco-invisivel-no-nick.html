@@ -1,0 +1,104 @@
+---
+authors:
+- Marcelo Augusto
+title: 'Espaço Invisível Free Fire (ff) - copiar código de letra oculta no nick'
+h1: 'Como inserir e utilizar o espaço invisível no Free Fire (FF)'
+excerpt: 'Saiba como usar o espaço invisível no Free Fire e melhorar o seu nome de jogador. Aprenda a inserir o código Unicode no seu nick e descubra as diferentes opções de tamanhos disponíveis. Confira agora mesmo nosso guia completo!'
+date: 2023-05-03T06:20:00-03:00
+tags: 
+    - Jogos Mobile
+    - Free Fire
+header:
+    image: "/images/free-fire/espaco-invisil-free-fire-ff-como-colocar.webp"
+
+---
+<div class="copiar">
+	<h2>Espaço Invisível GRANDE (ㅤ)</h2>
+	<button onclick="copyToClipboard('&#x3164;', 'espaco-grande')" id="espaco-grande">Copiar</button>
+</div>
+
+<div class="copiar">
+	<h2>Espaço Invisível pequeno (ﾠ)</h2>
+	<button onclick="copyToClipboard('&#x200b;', 'espaco-pequeno')" id="espaco-pequeno">Copiar</button>
+</div>
+
+
+<h2>O que é o espaço invisível no Free Fire?</h2>
+
+<img src="/images/free-fire/espaco-invisil-free-fire-ff-como-colocar.webp" alt="Espaço Invisível Free Fire (ff)">
+
+<p>O espaço invisível é um recurso bastante popular no jogo Free Fire, produzido e distribuído pela Garena, que permite aos jogadores incluir espaços em branco em seus nomes de usuário, apelidos, nomes de guilda e até mesmo em nomes de pets. O espaço é gerado por meio do código Unicode "ㅤ" (U+3164), também conhecido como "Espaço Invisível Free Fire". É importante ressaltar que o espaço invisível também é contado como uma letra no jogo.</p>
+
+<h2>Como utilizar o espaço invisível no Free Fire?</h2>
+<p>Para utilizar o espaço invisível no Free Fire, os jogadores precisam seguir alguns passos simples:</p>
+
+<h3>Passo 1: Trocar o nome de usuário</h3>
+
+<p>O primeiro passo é trocar o nome de usuário para incluir o espaço invisível. É possível escolher um nome gratuito ao abrir o jogo pela primeira vez, mas também é possível alterá-lo posteriormente gastando 800 diamantes ou adquirindo um cartão de troca de nome.</p>
+
+<h3>Passo 2: Copiar o código do espaço invisível</h3>
+<p>O próximo passo é copiar o código do espaço invisível. Existem diferentes tamanhos disponíveis, incluindo espaços invisíveis grandes, médios e pequenos, bem como fontes especiais de letras finas. Para copiar o código, basta selecionar a opção desejada abaixo:</p>
+
+<div class="copiar">
+	<h2>Espaço Invisível GRANDE (ㅤ)</h2>
+	<button onclick="copyToClipboard('&#x3164;', 'espaco-grande')" id="espaco-grande">Copiar</button>
+</div>
+
+<div class="copiar">
+	<h2>Espaço Invisível pequeno (ﾠ)</h2>
+	<button onclick="copyToClipboard('&#x200b;', 'espaco-pequeno')" id="espaco-pequeno">Copiar</button>
+</div>
+
+<h3>Passo 3: Colar o código do espaço invisível</h3>
+<p>Por fim, basta colar o código do espaço invisível no campo de troca de nome do Free Fire. Certifique-se de que o espaço esteja posicionado corretamente entre as letras do nome de usuário.</p>
+
+<h2>Conclusão</h2>
+
+<p>O espaço invisível é um recurso muito utilizado pelos jogadores do Free Fire para personalizar seus nomes de usuário, apelidos e nomes de guilda. Seguindo os passos simples descritos neste artigo, é fácil inserir e utilizar o espaço invisível no jogo. Certifique-se de escolher o tamanho correto e posicionar o espaço invisível adequadamente para obter os melhores resultados. Aproveite e deixe sua marca registrada no jogo com um nome exclusivo e personalizado!</p>
+
+<style>
+.copiar{
+	background: #000;
+	padding: 20px;
+	color: #ffba00;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.copiar h2{
+	margin: 0px;
+	color: white;
+}
+.copiar button{
+	background-color: #ffba00;
+	padding: 10px;
+	border: 0px;
+	width: 200px;
+	margin-top: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	cursor: pointer;
+}
+</style>
+<script>
+function copyToClipboard(text, idButton) {
+	const input = document.createElement('textarea');
+	input.value = text;
+	document.body.appendChild(input);
+	input.select();
+	document.execCommand('copy');
+	document.body.removeChild(input);
+
+	const button = document.getElementById(idButton);
+	const originalText = button.innerText;
+
+	button.innerText = "Copiado";
+	button.style.backgroundColor = 'green';
+	button.style.color = 'white';
+	setTimeout(() => {
+		button.innerText = originalText;
+		button.style.backgroundColor = '#ffba00';
+		button.style.color = 'black';
+		
+	}, 2000);
+}
+</script>
