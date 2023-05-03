@@ -23,6 +23,13 @@
 		
 		
 
+		<h2 class="content-title-home">Free Fire</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
+		{{- range first 5 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
+
 		<h2 class="content-title-home">Resident Evil 4 Remake</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
 		{{- range first 3 ($p1) -}}
@@ -49,13 +56,6 @@
 
 		<h2 class="content-title-home">Arena Breakout</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Arena Breakout") -}}
-		{{- range first 3 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
-
-
-		<h2 class="content-title-home">Free Fire</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
 		{{- range first 3 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
