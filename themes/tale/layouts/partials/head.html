@@ -10,6 +10,7 @@
 		{{- end }}
 
 		<title itemprop="name">{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}</title>
+		<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 
 		<!-- CSS -->
 		{{- $inServerMode	:= .Site.IsServer }}
