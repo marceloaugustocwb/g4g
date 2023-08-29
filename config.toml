@@ -55,3 +55,7 @@ paginate=20
   name = 'Valorant'
   url = '/tags/valorant/'
   weight = -3
+[[menu.main]]
+  name = 'PC Gaming'
+  url = '/tags/pc-gaming/'
+  weight = -2
