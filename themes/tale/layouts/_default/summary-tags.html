@@ -9,9 +9,9 @@
         </h3>
         <div class="catalogue-image-column">
             {{ if .Params.Header.Image }} 
-                <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}" loading="lazy">
+                <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}" loading="lazy" width="360" height="360" style="object-fit: contain;">
             {{ else if .Params.Image }}
-                <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" loading="lazy">
+                <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" loading="lazy" width="360" height="360" style="object-fit: contain;">
             {{ end }}
         </div>
     </div>
