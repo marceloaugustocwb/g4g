@@ -60,6 +60,6 @@ paginate=20
   url = '/tags/valorant/'
   weight = -3
 [[menu.main]]
-  name = 'PC Gaming'
-  url = '/tags/pc-gaming/'
+  name = 'PC Gamer'
+  url = '/tags/pc-gamer/'
   weight = -2
