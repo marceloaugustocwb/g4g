@@ -29,6 +29,10 @@
 		}
 
 
+		.flex{
+			display: flex;
+		}
+
 		.pagination .right,
 		.pagination .left {
 			background: #ff3a80;
@@ -74,8 +78,18 @@
 		}
 
 		.post a {
-			text-decoration: underline;
 			word-break: break-word;
+			color: #3498db;
+			text-decoration: none;
+			font-weight: 700;
+			border-bottom: 2px solid #3498db;
+			padding-bottom: 2px;
+			transition: color .3s,border-color .3s;
+		}
+
+		.post a:hover {
+			color: #2980b9;
+			border-color: #2980b9;
 		}
 
 		.post img{
@@ -199,6 +213,23 @@
 			text-align: center;
 		}
 
+		.buy-button {
+			display: block;
+			background-color: green;
+			color: #fff;
+			padding: 30px 30px;
+			border: none;
+			border-radius: 5px;
+			font-size: 18px;
+			cursor: pointer;
+			text-decoration: none!important;
+			transition: background-color .3s;
+			margin: 0 auto;
+			margin-top: 50px;
+			margin-bottom: 50px;
+			text-align: center;
+		}
+
 		.btn-buy{
 			background: green;
 			width: 290px;
@@ -227,7 +258,8 @@
 			margin: 0 auto;
 			margin-top: 40px;
 			border: 1px solid #4e5965;
-			color: white;
+			color: white !important;
+    		text-transform: uppercase;
 		}
 
 		.btn-buy-amazon-imagem{
