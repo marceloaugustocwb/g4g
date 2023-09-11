@@ -28,6 +28,10 @@ paginate=20
   url = '/tags/free-fire'
   weight = -10
 [[menu.main]]
+  name = 'Produtos na Amazon'
+  url = '/amazon'
+  weight = -9
+[[menu.main]]
   name = 'Roblox'
   url = '/tags/roblox'
   weight = -9
