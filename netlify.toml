@@ -12,3 +12,8 @@
 [[redirects]]
     from = "/amazon/pc-gaming/"
     to = "/amazon/pc-gamer/"
+
+[[redirects]]
+    from = "/amazon/pc-gaming/*"
+    to = "/amazon/pc-gamer/:splat"
+    status = 301
