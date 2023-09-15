@@ -28,7 +28,7 @@ paginate=20
   url = '/tags/free-fire'
   weight = -10
 [[menu.main]]
-  name = 'Produtos na Amazon'
+  name = 'Avaliação de produtos'
   url = '/amazon'
   weight = -9
 [[menu.main]]
