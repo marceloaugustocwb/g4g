@@ -23,6 +23,15 @@
 		
 		
 
+		<a href="/tags/gamespot/">
+			<h2 class="content-title-home">GameSpot</h2>
+		</a>
+		
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
+		{{- range first 5 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
 		<h2 class="content-title-home">Free Fire</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
 		{{- range first 5 ($p1) -}}
