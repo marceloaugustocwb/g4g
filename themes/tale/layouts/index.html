@@ -26,9 +26,9 @@
 		<a href="/tags/gamespot/">
 			<h2 class="content-title-home">GameSpot</h2>
 		</a>
-		
+
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
-		{{- range first 5 ($p1) -}}
+		{{- range first 10 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
@@ -37,20 +37,7 @@
 		{{- range first 5 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
-
-
-		<h2 class="content-title-home">Resident Evil 4 Remake</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
-		{{- range first 3 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
-
-		<h2 class="content-title-home">God of war</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "God of war") -}}
-		{{- range first 3 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
-
+		
 		<h2 class="content-title-home">Hogwarts Legacy</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
 		{{- range first 3 ($p1) -}}
