@@ -526,9 +526,9 @@
 						"@type": "NewsArticle",
 						"headline": "{{ .Params.title }}",
 						"image": [
-							"https://gamerforgamer.com{{ .Params.header.image | relURL }}"
+							"{{ .Params.header.image | relURL }}"
 						],
-						"thumbnailUrl": "https://gamerforgamer.com{{ .Params.header.image | relURL }}",
+						"thumbnailUrl": "{{ .Params.header.image | relURL }}",
 						"datePublished": "{{ .Params.date }}",
 						"dateModified": "{{ .Params.date }}",
 						"description": "{{ .Params.excerpt }}",
