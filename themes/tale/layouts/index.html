@@ -21,14 +21,12 @@
 
 	<div class="catalogue">
 		
-		
-
 		<a href="/tags/gamespot/">
-			<h2 class="content-title-home">GameSpot</h2>
+			<h2 class="content-title-home">Postagens recentes</h2>
 		</a>
 
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
-		{{- range first 10 ($p1) -}}
+		{{- range first 15 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
@@ -52,12 +50,6 @@
 
 		<h2 class="content-title-home">Arena Breakout</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Arena Breakout") -}}
-		{{- range first 3 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
-
-		<h2 class="content-title-home">Roblox</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Roblox") -}}
 		{{- range first 3 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
