@@ -26,7 +26,7 @@
 		</a>
 
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
-		{{- range first 15 ($p1) -}}
+		{{- range first 30 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
@@ -38,25 +38,25 @@
 		
 		<h2 class="content-title-home">Hogwarts Legacy</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
-		{{- range first 3 ($p1) -}}
+		{{- range first 2 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
 		<h2 class="content-title-home">Elden Ring</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Elden Ring") -}}
-		{{- range first 5 ($p1) -}}
+		{{- range first 2 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
 		<h2 class="content-title-home">Arena Breakout</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Arena Breakout") -}}
-		{{- range first 3 ($p1) -}}
+		{{- range first 2 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
 		<h2 class="content-title-home">GTA V</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GTAV") -}}
-		{{- range first 3 ($p1) -}}
+		{{- range first 2 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
