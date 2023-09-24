@@ -7,9 +7,12 @@ placeholder.
 
 {{ if in .Permalink "/en/" }}
     <h2>More content about {{.Page.Params.Tags}}</h2>
+{{ else if in .Permalink "/ar/" }}
+    <h2>المزيد من المحتوى حول {{.Page.Params.Tags}}</h2>
 {{ else }}
     <h2>Mais conteúdos em nosso site sobre {{.Page.Params.Tags}}</h2>
 {{ end }}
+
 
 		
 {{ $currentTitle := .Page.Title}}

@@ -3,9 +3,12 @@
 
     {{ if in .Permalink "/en/" }}
         <span>Written by</span>
+    {{ else if in .Permalink "/ar/" }}
+        <span>كتب بواسطة</span>
     {{ else }}
         <span>{{ i18n "writtenBy" }}</span>
     {{ end }}
+
 
 
 

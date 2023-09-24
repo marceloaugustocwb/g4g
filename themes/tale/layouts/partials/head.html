@@ -469,11 +469,15 @@
 
 		<link rel="alternate" hreflang="pt-br" href="https://gamerforgamer.com/" />
 		<link rel="alternate" hreflang="en" href="https://gamerforgamer.com/en/" />
+		
 		{{ if in .Permalink "/en/" }}
 			<meta http-equiv="content-language" content="en" />
+		{{ else if in .Permalink "/ar/" }}
+			<meta http-equiv="content-language" content="ar" />
 		{{ else }}
 			<meta http-equiv="content-language" content="pt-br" />
 		{{ end }}
+
 		
 
 		<meta property="og:title" content="{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }}{{- end }}" />
