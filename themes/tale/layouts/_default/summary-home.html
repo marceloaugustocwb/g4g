@@ -1,3 +1,4 @@
+{{ if ne .Title "Noticias" }}
 <a href="{{ .Permalink }}" class="catalogue-item">
     <div>
         <h3 class="catalogue-title">{{ .Title }}</h3>
@@ -12,3 +13,4 @@
         </div>
     </div>
 </a>
+{{ end }}

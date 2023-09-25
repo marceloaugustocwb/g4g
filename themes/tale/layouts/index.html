@@ -4,20 +4,47 @@
 	{{ partial "index/introduction.html" . }}
 
 
-	<h2>Quer ver conteúdos de qual jogo?</h2>
-	<nav class="nav">
-		<div class="nav-container header-menu">
-			<ul class="home-menu">
-				{{ range .Site.Menus.main }}
-					<li>
-						<a href="{{ .URL }}" onclick="gtag('event', 'click', { 'event_category' : 'home-menu', 'event_label' : '{{ .Name }}'});">
-							<span>{{ .Name }}</span>
-						</a>
-					</li>
-				{{ end }}
-			</ul>
-		</div>
-	</nav>
+	<h2 id="escolha-jogo">Escolha o seu jogo!</h2>
+	
+	<ul id="jogos">
+		<li>
+			<a href="/tags/free-fire">
+				<span>Free fire</span>
+				<img src="/images/free-fire/papel-de-parede/papel-de-parede-celular-free-fire-4.webp" alt="Papel de parede Free fire, Fotos de Free fire">
+			</a>
+		</li>
+		<li>
+			<a href="/tags/elden-ring">
+				<span>Elden ring</span>
+				<img src="/images/vendas-elden-ring.webp" alt="Elden Ring">
+			</a>
+		</li>
+		<li>
+			<a href="/tags/cyberpunk-2077">
+				<span>Cyberpunk 2077</span>
+				<img src="https://www.gamespot.com/a/uploads/original/1690/16904437/4195070-cyberpunk.jpg" alt="Cyberpunk 2077">
+			</a>
+		</li>
+		<li>
+			<a href="/tags/gtav">
+				<span>GTA V</span>
+				<img src="https://t2.tudocdn.net/615108?h=200" alt="GTA V">
+			</a>
+		</li>
+		<li>
+			<a href="/tags/lies-of-p">
+				<span>Lies of P</span>
+				<img src="https://www.gamespot.com/a/uploads/original/679/6794662/4187225-4142127-lies-of-p.jpg" alt="Lies of P">
+			</a>
+		</li>
+		<li>
+			<a href="/tags/roblox">
+				<span>Roblox</span>
+				<img src="/images/roblox/roblox.webp" alt="Roblox">
+			</a>
+		</li>
+	</ul>
+
 
 	<div class="catalogue">
 		

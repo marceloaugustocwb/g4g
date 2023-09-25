@@ -1,6 +1,12 @@
 {{ with .Params.tags }}
-    <ul id="tags">
-      {{ range . }}
+    <ul id="tags" style="margin-top: 10px;">
+        <li> 
+            <a href="/noticias">
+                <span>Últimas notícias</span>
+            </a>
+        </li>
+
+        {{ range . }}
         <li> 
             <a href="{{ "tags/" | absURL }}{{ . | urlize }}">
                 <span>{{ . }}</span>
