@@ -21,17 +21,7 @@
 
 	<div class="catalogue">
 		
-		<a href="/tags/noticias/">
-			<h2 class="content-title-home">Postagens recentes</h2>
-		</a>
-
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
-		
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Cyberpunk 2077") -}}
-		{{- range first 10 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
-
+		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
 		{{- range first 10 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
