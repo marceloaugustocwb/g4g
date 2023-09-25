@@ -26,7 +26,13 @@
 		</a>
 
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "GameSpot") -}}
-		{{- range first 30 ($p1) -}}
+		
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Cyberpunk 2077") -}}
+		{{- range first 10 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
+		{{- range first 10 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
