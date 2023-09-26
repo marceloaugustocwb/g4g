@@ -48,6 +48,7 @@
 
 	<div class="catalogue">
 		
+		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
 		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
 		{{- range first 10 ($p1) -}}
 			{{ .Render "summary-home" }}
