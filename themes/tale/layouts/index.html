@@ -56,7 +56,7 @@
 
 		<h2 class="content-title-home">Free Fire</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
-		{{- range first 5 ($p1) -}}
+		{{- range first 15 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 		
