@@ -8,43 +8,43 @@
 	
 	<ul id="jogos">
 		<li>
-			<a href="/tags/starfield">
+			<a href="/tags/starfield/">
 				<span>Starfield</span>
 				<img src="https://www.gamespot.com/a/uploads/original/1599/15997278/4191843-stareaglelarge.jpeg" alt="Starfield">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/free-fire">
+			<a href="/tags/free-fire/">
 				<span>Free fire</span>
 				<img src="/images/free-fire/papel-de-parede/papel-de-parede-celular-free-fire-4.webp" alt="Papel de parede Free fire, Fotos de Free fire">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/elden-ring">
+			<a href="/tags/elden-ring/">
 				<span>Elden ring</span>
 				<img src="/images/vendas-elden-ring.webp" alt="Elden Ring">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/cyberpunk-2077">
+			<a href="/tags/cyberpunk-2077/">
 				<span>Cyberpunk 2077</span>
 				<img src="https://www.gamespot.com/a/uploads/original/1690/16904437/4195070-cyberpunk.jpg" alt="Cyberpunk 2077">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/gtav">
+			<a href="/tags/gtav/">
 				<span>GTA V</span>
 				<img src="https://t2.tudocdn.net/615108?h=200" alt="GTA V">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/lies-of-p">
+			<a href="/tags/lies-of-p/">
 				<span>Lies of P</span>
 				<img src="https://www.gamespot.com/a/uploads/original/679/6794662/4187225-4142127-lies-of-p.jpg" alt="Lies of P">
 			</a>
 		</li>
 		<li>
-			<a href="/tags/roblox">
+			<a href="/tags/roblox/">
 				<span>Roblox</span>
 				<img src="/images/roblox/roblox.webp" alt="Roblox">
 			</a>
@@ -55,7 +55,7 @@
 	
 	<ul id="jogos">
 		<li>
-			<a href="/tags/naruto">
+			<a href="/tags/naruto/">
 				<span>Naruto</span>
 				<img src="/images/naruto_uzumaki.webp" alt="Starfield">
 			</a>
@@ -65,17 +65,19 @@
 
 	<div class="catalogue">
 		
+		<h2 class="content-title-home">Free Fire</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
+		{{- range first 15 ($p1) -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
+
 		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
 		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
 		{{- range first 40 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
-		<h2 class="content-title-home">Free Fire</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
-		{{- range first 15 ($p1) -}}
-			{{ .Render "summary-home" }}
-		{{- end -}}
 		
 		<h2 class="content-title-home">Hogwarts Legacy</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
