@@ -43,15 +43,26 @@
 		}
 
 
-		#escolha-jogo{
+		.escolha-jogo{
 			color: #000;
 			text-decoration: none;
 			padding: 10px;
 			text-align: center;
 		}
 
+		.menu-jogos{
+			height: 30px;
+			width: 130px;
+			background: #4e5965;
+			color: white;
+			font-size: 15px;
+		}
+		.post .jogos,
+		.post .escolha-jogo{
+			display: none;
+		}
 
-		#jogos{
+		.jogos{
 			padding: 0px;
 			list-style: none;
 			display: flex;
@@ -59,15 +70,15 @@
 			margin-bottom: 80px;
 		}
 
-		#jogos li{
+		.jogos li{
 			width: 100px;
 		}
 
-		#jogos li a span{
+		.jogos li a span{
 			font-size: 10px;
 		}
 
-		#jogos li a img{
+		.jogos li a img{
 			height: 100%;
     		object-fit: cover;
 		}
@@ -97,8 +108,8 @@
 		}
 
 		.post p {
-			font-size: 14px;
-			line-height: 27px;
+			font-size: 18px;
+			line-height: 35px;
 		}
 
 		p.fonte-imagem {
@@ -121,7 +132,7 @@
 			color: #fff;
 		}
 
-		.post a:not(.buy-button, .affiliate-link) {
+		.post a:not(.buy-button, .affiliate-link, .catalogue-item, .normal-link) {
 			word-break: break-word;
 			color: #3498db;
 			text-decoration: none;
@@ -431,17 +442,22 @@
 
 		@media screen and (max-width: 768px) {
 
-			#jogos{
+			.post p {
+				font-size: 14px;
+				line-height: 27px;
+			}
+
+			.jogos{
 				flex-direction: row;
 				flex-wrap: wrap;
 				justify-content: space-evenly;
 			}
 
-			#jogos li{
+			.jogos li{
 				width: 46%;
 			}
 
-			#jogos li a img {
+			.jogos li a img {
 				height: 210px;
 				margin: 0px;
 				padding: 0px;

@@ -2,8 +2,11 @@
 
 <main>
 	{{ partial "toc.html" . }}
-
-        <div class="post">
+	
+	<div class="post">
+		
+		{{ partial "games.html" . }}
+		
 		{{ partial "single/post-info.html" . }}
   
 		{{ partial "single/title.html" . }}
@@ -13,6 +16,7 @@
 		{{ .Content }}
 
 		{{ partial "single/footer.html" . }}
+
 	</div>
 
 	<div class="pagination">
@@ -34,4 +38,16 @@
 		height: max-content !important;
 	}
 </style>
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+      const botaoMenuJogos = document.querySelector(".menu-jogos");
+      const elementosOcultos = document.querySelectorAll(".hide-show");
+
+      botaoMenuJogos.addEventListener("click", function() {
+        elementosOcultos.forEach(function(elemento) {
+          elemento.style.display = "flex";
+        });
+      });
+    });
+  </script>
 {{ end }}
