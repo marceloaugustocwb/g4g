@@ -6,7 +6,7 @@ homepage = "https://github.com/EmielH/tale-hugo"
 tags = ["minimal", "clean", "responsive", "simple", "personal", "blog", "starter", "light", "typography"]
 features = ["pagination"]
 min_version = "0.50"
-title = "Gamer For Gamer"
+title = ""
 
 [languages]
   [languages.pt-br]
