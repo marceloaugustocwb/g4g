@@ -7,16 +7,16 @@
 
 	<div class="catalogue">
 		
-		<h2 class="content-title-home">Free Fire</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
-		{{- range first 15 ($p1) -}}
+		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
+		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
+		{{- range first 40 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
 
-		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
-		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
-		{{- range first 40 ($p1) -}}
+		<h2 class="content-title-home">Free Fire</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
+		{{- range first 15 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
