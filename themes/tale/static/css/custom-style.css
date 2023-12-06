@@ -108,6 +108,7 @@ blockquote{
 
     .catalogue-image-column {
         flex-direction: column;
+        height: 200px;
     }    
     .catalogue-image,
     a.catalogue-item p{

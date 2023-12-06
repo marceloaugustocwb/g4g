@@ -100,6 +100,7 @@
 
 		.catalogue-title{
 			word-break: break-word;
+			text-align: center;
 		}
 
 		h3.catalogue-title{
@@ -440,8 +441,17 @@
 			bottom: 280px;
 		}
 
+		.catalogue-image-column {
+			flex-direction: column;
+			height: 400px;
+			overflow: hidden;
+		}
+
 		@media screen and (max-width: 768px) {
 
+			.catalogue-image-column {
+				height: 200px;
+			}
 			.post p {
 				font-size: 14px;
 				line-height: 27px;
@@ -521,11 +531,6 @@
 			}
 			.post-title {
 				font-size: 23px;
-			}
-
-
-			.catalogue-image-column {
-				flex-direction: column;
 			}    
 			.catalogue-image,
 			a.catalogue-item p{
