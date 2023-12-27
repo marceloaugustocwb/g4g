@@ -20,7 +20,6 @@
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
-		
 		<h2 class="content-title-home">Hogwarts Legacy</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Hogwarts Legacy") -}}
 		{{- range first 2 ($p1) -}}
