@@ -1,8 +1,8 @@
 ---
 title: As melhores armas de Elden Ring - 2023
-excerpt: Rios de Sangue, Presa do Cão de Caça e Lâmina Enxertada estão dentre as melhores armas Elden Ring &ndash; Bandai Namco, Elden Ring, From Software
-date: 2023-01-23T01:51:00-03:00
-dateupdatetext: '24 de janeiro de 2023'
+excerpt: Rios de Sangue, Presa do Cão de Caça e Lâmina Enxertada estão dentre as melhores armas Elden Ring
+date: 2023-12-27T18:33:00-03:00
+dateupdatetext: '27 de dezembro de 2023'
 tags: 
   - Elden Ring
 header:
@@ -169,5 +169,3 @@ Essas são apenas algumas das melhores armas de **Elden Ring**. Vale mencionar q
 "Elden Ring é um jogo emocionante e repleto de ação, onde os jogadores podem encontrar armas lendárias incríveis e poderosas. Uma das melhores armas do jogo é a Seta de Gransax, uma seta lendária que é conhecida por sua precisão e dano massivo. Outra arma lendária digna de menção é a Espada da Noite (Sword of Night), um espadão que é incrivelmente forte e tem habilidades únicas.
 
 O jogador também pode encontrar essas armas lendárias explorando o nível inferior da mansão, um local secreto e desafiante que é cheio de monstros e tesouros.
-
-Parte deste texto foi retirada do site: [As melhores armas de Elden Ring - Tecnoblog](https://tecnoblog.net/responde/as-melhores-armas-de-elden-ring)
