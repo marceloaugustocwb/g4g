@@ -103,6 +103,17 @@ Ajustar a DPI (Dots Per Inch) em dispositivos móveis pode melhorar significativ
 
 Note que o processo de ajuste de DPI pode variar ligeiramente dependendo da versão do sistema operacional e do modelo do dispositivo. Ajustar a DPI pode proporcionar uma experiência de toque mais responsiva e precisa, especialmente útil em jogos que requerem movimentos rápidos e precisos.
 
+### DPI recomendados para cada celular
+
+- **iPhone**: Recomenda-se um DPI de `120`, proporcionando uma experiência de toque equilibrada e responsiva.
+
+- **Xiaomi**: Um DPI de `400` é frequentemente preferido, oferecendo uma boa combinação de precisão e sensibilidade.
+
+- **Motorola**: Muitos usuários optam por um DPI de `500`, o que proporciona movimentos precisos e uma experiência de jogo suave.
+
+- **Samsung**: Um DPI de `600` é comum, ideal para aqueles que buscam uma resposta tátil mais rápida e movimentos ágeis.
+
+- **Poco**: Assim como Xiaomi, o DPI de `400` é uma escolha popular, equilibrando bem a precisão e a velocidade.
 
 ## Por Que a Sensibilidade é Importante no Free Fire?
 No Free Fire, a sensibilidade influencia diretamente como você interage com o ambiente do jogo. Ela afeta a velocidade de movimento da câmera, a precisão do mirar e a eficácia em combate. Uma sensibilidade inadequada pode resultar em movimentos bruscos ou lentos demais, prejudicando a performance durante as partidas.
