@@ -64,9 +64,9 @@ Uma das melhores coisas sobre o Nintendo Switch é a sua flexibilidade. Com a gr
 
 ### Onde comprar?
 
-Recomendamos a compra do Nintendo Switch na [Amazon Brasil](https://amzn.to/40FgqjS), você receberá o video game na sua casa em poucos dias.\
+Recomendamos a compra do Nintendo Switch na [Amazon Brasil](https://amzn.to/47ckOtT), você receberá o video game na sua casa em poucos dias.\
 \
-Para ver a lista completa de todos os modelos do Nintendo Switch, [acesse esse link](https://amzn.to/40FgqjS).
+Para ver a lista completa de todos os modelos do Nintendo Switch, [acesse esse link](https://amzn.to/4aFoZRW).
 
 ## Steam deck
 

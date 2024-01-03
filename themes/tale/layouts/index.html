@@ -7,9 +7,17 @@
 
 	<div class="catalogue">
 		
+		<h2 class="content-title-home"><a href="/sensibilidade">Sensibilidade no Free Fire</a></h2>
+		{{- $p1 := where .Site.Pages "Type" "sensibilidade" -}}
+		{{- range first 10 ($p1) -}}
+			{{ if .Params.Header.Image }} 
+				{{ .Render "summary-home" }}
+			{{ end }}
+		{{- end -}}
+
 		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
 		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
-		{{- range first 40 ($p1) -}}
+		{{- range first 30 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 

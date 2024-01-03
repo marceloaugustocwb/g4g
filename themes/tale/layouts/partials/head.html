@@ -449,6 +449,10 @@
 
 		@media screen and (max-width: 768px) {
 
+			.google-auto-placed{
+				min-height: 400px;
+			}
+
 			.catalogue-image-column {
 				height: 200px;
 			}
@@ -614,7 +618,8 @@
 						"inLanguage": "pt-BR"
 					},
 					{
-						"@type": "NewsArticle",
+						"@type": "Article",
+						"@id": "{{ .Permalink }}",
 						"headline": "{{ .Params.title }}",
 						"image": [
 							"{{ .Params.header.image | relURL }}"
