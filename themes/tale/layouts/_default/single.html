@@ -8,7 +8,9 @@
 		{{ partial "single/title.html" . }}
 
 		{{ partial "single/header.html" . }}
-  
+		
+		{{ .TableOfContents }}
+
 		{{ .Content }}
 
 		{{ partial "single/post-info.html" . }}
