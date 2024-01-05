@@ -2,9 +2,9 @@
 authors:
 - Marcelo Augusto
 title: "A melhor sensibilidade do Free Fire em 2024"
-h1: "A Melhor Sensibilidade para Free Fire em 2024: Encontre Seu Estilo de Jogo Ideal"
-excerpt: 'Comece o ano novo com sensibilidade nova no Free Fire.'
-date: 2023-12-31T15:40:00-03:00
+h1: "A Melhor Sensibilidade para Free Fire em 2024 (sensi ff)"
+excerpt: 'Sensi FF para 2024, veja a melhor sensibilidade para você dar capa!'
+date: 2023-01-04T22:20:00-03:00
 tags: 
 - Free Fire
 header:
