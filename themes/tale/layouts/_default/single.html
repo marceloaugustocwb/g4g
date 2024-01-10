@@ -45,16 +45,4 @@
 		height: max-content !important;
 	}
 </style>
-<script>
-   document.addEventListener("DOMContentLoaded", function() {
-      const botaoMenuJogos = document.querySelector(".menu-jogos");
-      const elementosOcultos = document.querySelectorAll(".hide-show");
-
-      botaoMenuJogos.addEventListener("click", function() {
-        elementosOcultos.forEach(function(elemento) {
-          elemento.style.display = "flex";
-        });
-      });
-    });
-  </script>
 {{ end }}
