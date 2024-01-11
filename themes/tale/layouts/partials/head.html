@@ -147,7 +147,7 @@
 			color: #fff;
 		}
 
-		.post a:not(.buy-button, .affiliate-link, .catalogue-item, .normal-link, a[href*="mercadolivre.com"]) {
+		.post a:not(.buy-button, .affiliate-link, .catalogue-item, .normal-link, a[href*="mercadolivre.com"]:not(.only-link)) {
 			word-break: break-word;
 			color: #3498db;
 			text-decoration: none;
@@ -310,7 +310,7 @@
 		}
 
 		.buy-button,
-		a[href*="mercadolivre.com"]{
+		a[href*="mercadolivre.com"]:not(.only-link){
 			display: block;
 			background-color: green !important;
 			color: #fff;
