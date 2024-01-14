@@ -32,7 +32,7 @@ Se você é fã de [Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumak
 * [**Naruto Uzumaki**](/anime/naruto/naruto-uzumaki/): protagonista da série, um ninja barulhento, hiperativo e cheio de energia, com o objetivo de se tornar o Hokage.
 * [**Sasuke Uchiha**](/anime/naruto/sasuke-uchiha/): rival de Naruto, membro do clã Uchiha, com habilidades poderosas e que busca vingança contra seu irmão.
 * [**Sakura Haruno**](/anime/naruto/sakura-haruno/): colega de equipe de Naruto e Sasuke, uma ninja talentosa com habilidades médicas.
-* **Kakashi Hatake**: líder da equipe 7, um ninja experiente com o Sharingan.
+* [**Kakashi Hatake**](/anime/naruto/kakashi-hatake): líder da equipe 7, um ninja experiente com o Sharingan.
 * **Obito Uchiha**: ex-colega de Kakashi, que mais tarde se torna o vilão conhecido como Tobi.
 
 ### Personagens secundários:
