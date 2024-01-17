@@ -650,7 +650,7 @@
 						"inLanguage": "pt-BR"
 					},
 					{
-						"@type": "Article",
+						"@type": "{{ if .Params.isNews }}NewsArticle{{ else }}Article{{ end }}",
 						"@id": "{{ .Permalink }}",
 						"headline": "{{ .Params.title }}",
 						"image": [
