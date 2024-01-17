@@ -11,7 +11,7 @@ tags:
     - PS5
 ---
 
-![A pré-venda de 'The Last of Us Part II Remastered](/images/pre-venda-ps5-slim.jpg)
+![Pré-venda do PS5 SLIM](/images/pre-venda-ps5-slim.jpg)
 
 Agora disponível para pré-venda no Brasil, o PS5 Slim, a nova versão do console de última geração da Sony, já pode ser adquirido na Amazon. Este lançamento empolgante oferece aos entusiastas dos games a oportunidade de obter o console por um preço especial de R$ 3.533,91 à vista, com a vantagem adicional do frete grátis. É importante destacar que a oferta é exclusiva e os estoques são extremamente limitados, portanto, os interessados devem agir rapidamente para garantir o seu. Não perca a chance de fazer parte desta nova era de jogos com o PS5 Slim.
 
