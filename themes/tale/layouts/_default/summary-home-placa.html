@@ -1,0 +1,12 @@
+{{ if .Params.Header.Image }}
+<a href="{{ .Permalink }}" class="catalogue-item">
+    <div>
+        <h3 class="catalogue-title">{{ .Title }}</h3>
+        <div class="catalogue-image-column">
+            <div class="catalogue-image">
+                <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
+            </div>
+        </div>
+    </div>
+</a>
+{{ end }}

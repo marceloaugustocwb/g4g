@@ -7,25 +7,29 @@
 
 	<div class="catalogue">
 		
-		<h2 class="content-title-home"><a href="/noticias">Últimas notícias</a></h2>
+		<h2 class="content-title-home"><a href="/placa-de-video">Últimas notícias</a></h2>
 		{{- $p1 := where .Site.Pages "Type" "noticias" -}}
-		{{- range first 30 ($p1) -}}
+		{{- range first 5 ($p1) -}}
 			{{ .Render "summary-home" }}
+		{{- end -}}
+
+		<h2 class="content-title-home"><a href="/placa-de-video">Últimas review de placa de vídeo</a></h2>
+		{{- $p1 := where .Site.Pages "Type" "placa-de-video" -}}
+		{{- range first 5 ($p1) -}}
+			{{ .Render "summary-home-placa" }}
 		{{- end -}}
 		
 		<h2 class="content-title-home"><a href="/sensibilidade">Sensibilidade no Free Fire</a></h2>
 		{{- $p1 := where .Site.Pages "Type" "sensibilidade" -}}
-		{{- range first 10 ($p1) -}}
+		{{- range first 5 ($p1) -}}
 			{{ if .Params.Header.Image }} 
 				{{ .Render "summary-home" }}
 			{{ end }}
 		{{- end -}}
 
-
-
 		<h2 class="content-title-home">Free Fire</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
-		{{- range first 15 ($p1) -}}
+		{{- range first 5 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
