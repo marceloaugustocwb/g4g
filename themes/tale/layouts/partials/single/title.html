@@ -6,27 +6,32 @@
     {{end}}
 </h1>
 <div class="post-line"></div>
-
 <script>
+    // Função para carregar e exibir o anúncio
+    function loadAndDisplayAd() {
+        // Cria o elemento script para o Google AdSense se ainda não foi criado
+        if (!window.adsbygoogleLoaded) {
+            var adScript = document.createElement('script');
+            adScript.async = true;
+            adScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1620683366823925";
+            adScript.crossorigin = "anonymous";
+            document.head.appendChild(adScript);
     
-    document.addEventListener('DOMContentLoaded', function() {
+            adScript.onload = function() {
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            };
     
-        var adScript = document.createElement('script');
-        adScript.async = true;
-        adScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1620683366823925";
-        adScript.crossorigin = "anonymous";
+            // Marca o script como carregado para evitar carregamentos múltiplos
+            window.adsbygoogleLoaded = true;
+        }
+    }
     
-    
-        document.head.appendChild(adScript);
-    
-    
-        adScript.onload = function() {
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        };
-    });
+    // Adiciona o listener para o evento de click na página
+    document.addEventListener('click', loadAndDisplayAd, {once: true});
     </script>
     
-    <div style="min-height: 280px;padding-bottom: 40px;">
+    <div style="min-height: 280px; padding-bottom: 40px;">
+        <!-- Espaço reservado para os anúncios -->
         <ins class="adsbygoogle"
             style="display:block"
             data-ad-client="ca-pub-1620683366823925"
