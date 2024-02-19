@@ -7,9 +7,19 @@
 </h1>
 <div class="post-line"></div>
 <script>
+
+      // Função de tratamento do evento de scroll que limita a execução
+      function handleScrollEvent() {
+        // Certifica-se de que a função é executada apenas uma vez
+        if (!window.adsbygoogleLoaded) {
+            loadAndDisplayAd();
+        }
+    }
+
+    
     // Função para carregar e exibir o anúncio
     function loadAndDisplayAd() {
-        // Cria o elemento script para o Google AdSense se ainda não foi criado
+        // Verifica se o anúncio já foi carregado para evitar múltiplas cargas
         if (!window.adsbygoogleLoaded) {
             var adScript = document.createElement('script');
             adScript.async = true;
@@ -21,13 +31,17 @@
                 (adsbygoogle = window.adsbygoogle || []).push({});
             };
     
-            // Marca o script como carregado para evitar carregamentos múltiplos
+            // Marca que os anúncios foram carregados
             window.adsbygoogleLoaded = true;
+    
+            // Remove o listener de evento para evitar futuras execuções
+            document.removeEventListener('scroll', handleScrollEvent, {passive: true});
         }
     }
     
-    // Adiciona o listener para o evento de click na página
-    document.addEventListener('click', loadAndDisplayAd, {once: true});
+    
+    // Adiciona o evento de scroll ao documento
+    document.addEventListener('scroll', handleScrollEvent, {passive: true});
     </script>
     
     <div style="min-height: 280px; padding-bottom: 40px;">
@@ -39,3 +53,4 @@
             data-ad-format="auto"
             data-full-width-responsive="true"></ins>
     </div>
+    
