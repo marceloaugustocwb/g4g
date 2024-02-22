@@ -5,27 +5,7 @@
     {{ partial "single/title.html" . }} 
     {{ partial "single/header.html" . }}
 
-    {{ $content := .Content }}
-    {{ $paragraphs := split $content "<p>" }}
-
-    {{/* Reconstruir o conteúdo com a <div> após o segundo parágrafo */}}
-    {{ $newContent := "" }}
-    {{ $length := len $paragraphs }}
-
-    {{ range $i, $para := $paragraphs }}
-        {{ if ge $i 2 }}
-            {{ $newContent = print $newContent "<p>" $para "</p>" }}
-        {{ else }}
-            {{ $newContent = print $newContent "<p>" $para "</p>" }}
-        {{ end }}
-        {{ if eq $i 1 }}
-            {{ $newContent = print $newContent "<div style=\"min-height: 280px; padding-bottom: 40px;\"><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-1620683366823925\" data-ad-slot=\"2945822418\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins></div>" }}
-        {{ end }}
-    {{ end }}
-
-    {{ $newContent | safeHTML }}
-
-
+    {{ .Content }}
     {{ partial "single/post-info.html" . }} 
     {{ partial "single/footer.html" . }}
   </div>
