@@ -1,37 +1,55 @@
 {{ define "main" }}
 
 <main>
-	<div class="post">
-		
-		{{ partial "single/title.html" . }}
+  <div class="post">
+    {{ partial "single/title.html" . }} 
+    {{ partial "single/header.html" . }}
 
-		{{ partial "single/header.html" . }}
+    {{ $content := .Content }}
+    {{ $paragraphs := split $content "<p>" }}
 
-		{{ .Content }}
+    {{/* Reconstruir o conteúdo com a <div> após o segundo parágrafo */}}
+    {{ $newContent := "" }}
+    {{ $length := len $paragraphs }}
 
-		{{ partial "single/post-info.html" . }}
-		
-		{{ partial "single/footer.html" . }}
+    {{ range $i, $para := $paragraphs }}
+        {{ if ge $i 2 }}
+            {{ $newContent = print $newContent "<p>" $para "</p>" }}
+        {{ else }}
+            {{ $newContent = print $newContent "<p>" $para "</p>" }}
+        {{ end }}
+        {{ if eq $i 1 }}
+            {{ $newContent = print $newContent "<div style=\"min-height: 280px; padding-bottom: 40px;\"><ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-1620683366823925\" data-ad-slot=\"2945822418\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins></div>" }}
+        {{ end }}
+    {{ end }}
 
-	</div>
+    {{ $newContent | safeHTML }}
 
-	<div class="pagination">
-		{{- if .PrevPage }}
-		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">Página anterior</a>
-		{{- end }}
-		{{- if .NextPage }}
-		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">Próxima página</a>
-		{{- end }}
-	</div>
+
+    {{ partial "single/post-info.html" . }} 
+    {{ partial "single/footer.html" . }}
+  </div>
+
+  <div class="pagination">
+    {{- if .PrevPage }}
+    <a href="{{ .PrevPage.RelPermalink }}" class="left arrow"
+      >Página anterior</a
+    >
+    {{- end }} {{- if .NextPage }}
+    <a href="{{ .NextPage.RelPermalink }}" class="right arrow"
+      >Próxima página</a
+    >
+    {{- end }}
+  </div>
 </main>
 
 <style>
-	.catalogue-image-column{
-		height: auto;
-	}
-	.catalogue-image-column img{
-		margin: 0px;
-		height: max-content !important;
-	}
+  .catalogue-image-column {
+    height: auto;
+  }
+  .catalogue-image-column img {
+    margin: 0px;
+    height: max-content !important;
+  }
 </style>
 {{ end }}
