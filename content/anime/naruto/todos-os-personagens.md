@@ -15,61 +15,61 @@ tags:
 
 ![Personagens do Naruto](/personagens-do-naruto.webp)
 
-Naruto é uma série de anime e mangá criada pelo mangaká Masashi Kishimoto. A história segue as aventuras de Naruto Uzumaki, um jovem ninja da Vila Oculta da Folha, que sonha em se tornar o Hokage, o líder da vila e o ninja mais poderoso de todos. Ao longo da série, Naruto faz amizades, luta contra inimigos poderosos e descobre segredos sobre seu passado e sua linhagem.
+[Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) é uma série de anime e mangá criada pelo mangaká Masashi Kishimoto. A história segue as aventuras de [Naruto Uzumaki](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) , um jovem ninja da Vila Oculta da Folha, que sonha em se tornar o Hokage, o líder da vila e o ninja mais poderoso de todos. Ao longo da série, Naruto faz amizades, luta contra inimigos poderosos e descobre segredos sobre seu passado e sua linhagem.
 
 ## Personagens
 
-Naruto possui uma grande quantidade de personagens, desde protagonistas até vilões, passando por personagens secundários e de suporte. A lista de personagens da série é extensa e variada, com cada um deles trazendo suas habilidades e personalidades únicas para a história.
+[Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) possui uma grande quantidade de personagens, desde protagonistas até vilões, passando por personagens secundários e de suporte. A lista de personagens da série é extensa e variada, com cada um deles trazendo suas habilidades e personalidades únicas para a história.
 
-Descubra mais sobre seus personagens favoritos e relembre alguns que você talvez tenha esquecido. Não perca essa oportunidade de mergulhar ainda mais no mundo ninja de Naruto!
+Descubra mais sobre seus personagens favoritos e relembre alguns que você talvez tenha esquecido. Não perca essa oportunidade de mergulhar ainda mais no mundo ninja de [Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) !
 
-Se você é fã de Naruto e deseja ver a lista completa de personagens do anime, confira agora mesmo a nossa lista completa.
+Se você é fã de [Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/)  e deseja ver a lista completa de personagens do anime, confira agora mesmo a nossa lista completa.
 
 ### Personagens principais:
 
 ![](/naruto-personagens-importantes.webp)
 
-* Naruto Uzumaki: protagonista da série, um ninja barulhento, hiperativo e cheio de energia, com o objetivo de se tornar o Hokage.
-* Sasuke Uchiha: rival de Naruto, membro do clã Uchiha, com habilidades poderosas e que busca vingança contra seu irmão.
-* Sakura Haruno: colega de equipe de Naruto e Sasuke, uma ninja talentosa com habilidades médicas.
-* Kakashi Hatake: líder da equipe 7, um ninja experiente com o Sharingan.
-* Obito Uchiha: ex-colega de Kakashi, que mais tarde se torna o vilão conhecido como Tobi.
+* [**Naruto Uzumaki**](/anime/naruto/naruto-uzumaki/): protagonista da série, um ninja barulhento, hiperativo e cheio de energia, com o objetivo de se tornar o Hokage.
+* [**Sasuke Uchiha**](/anime/naruto/sasuke-uchiha/): rival de Naruto, membro do clã Uchiha, com habilidades poderosas e que busca vingança contra seu irmão.
+* [**Sakura Haruno**](/anime/naruto/sakura-haruno/): colega de equipe de Naruto e Sasuke, uma ninja talentosa com habilidades médicas.
+* [**Kakashi Hatake**](/anime/naruto/kakashi-hatake): líder da equipe 7, um ninja experiente com o Sharingan.
+* **Obito Uchiha**: ex-colega de Kakashi, que mais tarde se torna o vilão conhecido como Tobi.
 
 ### Personagens secundários:
 
-* Jiraiya: um lendário ninja, conhecido como o Sábio dos Sapos, que treina Naruto.
-* Tsunade: a Quinta Hokage, responsável pela liderança da Vila Oculta da Folha.
-* Gaara: Kazekage da Vila Oculta da Areia, inicialmente um inimigo de Naruto, mas que se torna um aliado.
-* Hinata Hyuga: colega de classe de Naruto e ninja do clã Hyuga, que nutre sentimentos por ele.
-* Shikamaru Nara: amigo de infância de Naruto, um ninja preguiçoso, mas muito inteligente.
-* Rock Lee: colega de classe de Naruto, um ninja habilidoso em taijutsu.
-* Neji Hyuga: primo de Hinata, um ninja do clã Hyuga com habilidades especiais no Byakugan.
+* **Jiraiya**: um lendário ninja, conhecido como o Sábio dos Sapos, que treina Naruto.
+* **Tsunade**: a Quinta Hokage, responsável pela liderança da Vila Oculta da Folha.
+* **Gaara**: Kazekage da Vila Oculta da Areia, inicialmente um inimigo de Naruto, mas que se torna um aliado.
+* **Hinata Hyuga**: colega de classe de Naruto e ninja do clã Hyuga, que nutre sentimentos por ele.
+* **Shikamaru Nara**: amigo de infância de Naruto, um ninja preguiçoso, mas muito inteligente.
+* **Rock Lee**: colega de classe de Naruto, um ninja habilidoso em taijutsu.
+* **Neji Hyuga**: primo de Hinata, um ninja do clã Hyuga com habilidades especiais no Byakugan.
 
 ### Personagens vilões do Naruto:
 
-* Orochimaru: um ex-membro da Vila Oculta da Folha, que busca a imortalidade e é um dos principais vilões da série.
-* Kabuto Yakushi: um ninja médico que trabalha para Orochimaru.
-* Itachi Uchiha: irmão mais velho de Sasuke, que mata todo o seu clã, com exceção de seu irmão, e é considerado um dos vilões mais poderosos da série.
-* Pain/Nagato: um vilão misterioso que lidera uma organização conhecida como Akatsuki.
-* Madara Uchiha: fundador do clã Uchiha, um dos ninjas mais poderosos da história, que busca o controle do mundo ninja.
+* **Orochimaru**: um ex-membro da Vila Oculta da Folha, que busca a imortalidade e é um dos principais vilões da série.
+* **Kabuto Yakushi**: um ninja médico que trabalha para Orochimaru.
+* **Itachi Uchiha**: irmão mais velho de Sasuke, que mata todo o seu clã, com exceção de seu irmão, e é considerado um dos vilões mais poderosos da série.
+* **Pain/Nagato**: um vilão misterioso que lidera uma organização conhecida como Akatsuki.
+* **Madara Uchiha**: fundador do clã Uchiha, um dos ninjas mais poderosos da história, que busca o controle do mundo ninja.
 
 ### Personagens de suporte:
 
-* Iruka Umino: professor de Naruto na Academia Ninja.
-* Ino Yamanaka: amiga de Sakura e ninja especializada em técnicas de controle mental.
-* Kiba Inuzuka: colega de classe de Naruto, ninja que luta junto com seu cão, Akamaru.
-* Choji Akimichi: amigo de infância de Shikamaru, um ninja especializado em técnicas de aumento de peso.
-* Temari: irmã mais velha de Gaara, uma ninja especializada em jutsus de vento.
+* **Iruka Umino**: professor de Naruto na Academia Ninja.
+* **Ino Yamanaka**: amiga de Sakura e ninja especializada em técnicas de controle mental.
+* **Kiba Inuzuka**: colega de classe de Naruto, ninja que luta junto com seu cão, Akamaru.
+* **Choji Akimichi**: amigo de infância de Shikamaru, um ninja especializado em técnicas de aumento de peso.
+* **Temari**: irmã mais velha de Gaara, uma ninja especializada em jutsus de vento.
 
 ## Curiosidades sobre Naruto
 
 ![Naruto wallpaper](/naruto.webp)
 
-Naruto é uma série de anime e mangá que conquistou milhões de fãs em todo o mundo. Além da história envolvente e dos personagens marcantes, a série apresenta diversas curiosidades interessantes que nem todos os fãs conhecem. Confira algumas curiosidades sobre Naruto:
+[Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/)  é uma série de anime e mangá que conquistou milhões de fãs em todo o mundo. Além da história envolvente e dos personagens marcantes, a série apresenta diversas curiosidades interessantes que nem todos os fãs conhecem. Confira algumas curiosidades sobre [Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) :
 
 1. Nome do protagonista: O nome "Naruto" vem do nome de um tipo de macarrão japonês, que é enrolado em espiral como os redemoinhos que aparecem no anime.
 2. Duração da série: Naruto tem um total de 720 episódios, que foram exibidos entre 2002 e 2017. O mangá tem um total de 72 volumes.
-3. Influência de Dragon Ball: O criador de Naruto, Masashi Kishimoto, é um grande fã de Dragon Ball e se inspirou na série para criar os personagens e a história de Naruto.
+3. Influência de Dragon Ball: O criador de Naruto, Masashi Kishimoto, é um grande fã de Dragon Ball e se inspirou na série para criar os personagens e a história de [Naruto](https://gamerforgamer.com/anime/naruto/naruto-uzumaki/) .
 4. Naruto no Brasil: No Brasil, a série Naruto estreou na TV aberta em 2007, na Rede TV!, mas também foi exibida em outros canais, como Cartoon Network e SBT.
 5. Personagens baseados em pessoas reais: Alguns dos personagens de Naruto foram baseados em pessoas reais, como o personagem Might Guy, que foi inspirado no próprio editor de Kishimoto.
 6. Significado dos nomes: Muitos dos nomes dos personagens em Naruto têm significados especiais. Por exemplo, "Sasuke" significa "ajuda" ou "assistência", enquanto "Sakura" significa "flor de cerejeira".
