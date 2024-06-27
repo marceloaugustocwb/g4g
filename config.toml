@@ -59,3 +59,16 @@ paginate=20
   name = 'PC Gaming'
   url = '/tags/pc-gaming/'
   weight = -2
+
+[[menu.placadevideo]]
+  name = 'RTX 4060 Ti'
+  url = 'https://gamerforgamer.com/placa-de-video/rtx-4060-ti/'
+  weight = 1
+[[menu.placadevideo]]
+  name = 'RTX 3060'
+  url = 'https://gamerforgamer.com/placa-de-video/rtx-3060/'
+  weight = 2
+[[menu.placadevideo]]
+  name = 'Ver mais Reviews'
+  url = 'https://gamerforgamer.com/placa-de-video/'
+  weight = 2

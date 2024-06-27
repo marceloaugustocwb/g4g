@@ -18,6 +18,20 @@
 			</ul>
 		</div>
 	</nav>
+	<h2>Review Sobre Placa de vídeo</h2>
+	<nav class="nav">
+		<div class="nav-container header-menu">
+			<ul class="home-menu">
+				{{ range .Site.Menus.placadevideo }}
+					<li>
+						<a href="{{ .URL }}" onclick="gtag('event', 'click', { 'event_category' : 'home-menu', 'event_label' : '{{ .Name }}'});">
+							<span>{{ .Name }}</span>
+						</a>
+					</li>
+				{{ end }}
+			</ul>
+		</div>
+	</nav>
 
 	<div class="catalogue">
 		
