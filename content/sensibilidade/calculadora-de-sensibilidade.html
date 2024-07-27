@@ -1,0 +1,45 @@
+---
+authors:
+- Marcelo Augusto
+title: 'Calculadora de sensibilidade'
+excerpt: 'Veja calculadora de sensibilidade.'
+date: 2024-01-06T01:09:00-03:00
+tags: 
+- Free Fire
+header:
+    image: "/images/free-fire/sensibilidade/free-fire-sensibilidade-perfeita.webp"
+---
+
+<p>Veja o DPI para você fazer o cálculo da sua sensibilidade no free fire:</p>
+
+<p id="dpi-output" style="font-weight: bold;">Calculando o seu DPI...</p>
+
+<script>
+    function calculateDPI() {
+        // Resolução da tela em pixels
+        var screenWidthPixels = screen.width * window.devicePixelRatio;
+        var screenHeightPixels = screen.height * window.devicePixelRatio;
+
+        // Supondo uma diagonal conhecida em polegadas (substitua pelo valor real se conhecido)
+        var diagonalInches = 5.5; // Exemplo: 5.5 polegadas
+
+        // Calcula a diagonal em pixels
+        var diagonalPixels = Math.sqrt(Math.pow(screenWidthPixels, 2) + Math.pow(screenHeightPixels, 2));
+
+        // Calcula DPI
+        var dpi = diagonalPixels / diagonalInches;
+
+        return dpi;
+    }
+
+    var dpi = calculateDPI();
+    document.getElementById("dpi-output").innerText = "DPI do dispositivo: " + dpi.toFixed(2);
+</script>
+
+<p>Veja outras calculadoras de sensibilidades que temos:</p>
+
+<ul>
+    <li><a href="sensibilidade/calculadora-sensibilidade-cs-go-para-valorant/">Sensi do CS GO para Valorant</a></li>
+</ul>
+
+
