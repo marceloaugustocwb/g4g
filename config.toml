@@ -72,3 +72,13 @@ paginate=20
   name = 'Ver mais Reviews'
   url = 'https://gamerforgamer.com/placa-de-video/'
   weight = 2
+
+
+[[menu.animes]]
+  name = 'Naruto'
+  url = 'https://gamerforgamer.com/tags/naruto/'
+  weight = 1
+[[menu.animes]]
+  name = 'Dragon Ball'
+  url = 'https://gamerforgamer.com/tags/dragon-ball/'
+  weight = 2

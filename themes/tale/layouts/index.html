@@ -18,6 +18,20 @@
 			</ul>
 		</div>
 	</nav>
+	<h2>Animes</h2>
+	<nav class="nav">
+		<div class="nav-container header-menu">
+			<ul class="home-menu">
+				{{ range .Site.Menus.animes }}
+					<li>
+						<a href="{{ .URL }}" onclick="gtag('event', 'click', { 'event_category' : 'home-menu', 'event_label' : '{{ .Name }}'});">
+							<span>{{ .Name }}</span>
+						</a>
+					</li>
+				{{ end }}
+			</ul>
+		</div>
+	</nav>
 	<h2>Review Sobre Placa de vídeo</h2>
 	<nav class="nav">
 		<div class="nav-container header-menu">
@@ -34,19 +48,15 @@
 	</nav>
 
 	<div class="catalogue">
-		
-		
-
 		<h2 class="content-title-home">Free Fire</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
 		{{- range first 5 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
-
-		<h2 class="content-title-home">Resident Evil 4 Remake</h2>
-		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Resident Evil 4 Remake") -}}
-		{{- range first 3 ($p1) -}}
+		<h2 class="content-title-home">Naruto</h2>
+		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Naruto") -}}
+		{{- range first 10 ($p1) -}}
 			{{ .Render "summary-home" }}
 		{{- end -}}
 
