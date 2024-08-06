@@ -1,6 +1,18 @@
 [[redirects]]
+    from = "/noticias/veja-os-trailers-do-gta-4-gta-5-e-gta-6/"
+    to = "/"
+[[redirects]]
+    from = "/noticias/gamespot/vazamento-de-cronograma-da-microsoft-menciona-dishonored-3-ghostwire-tokyo-oblivion-e-fallout-3-dishonored-3/"
+    to = "/"
+[[redirects]]
+    from = "/noticias/freefire/nova-temporada-22-contra-squad-novidades-e-data-de-lancamento/"
+    to = "/"
+[[redirects]]
     from = "/post/elden-ring-teste-agora-mesmo-o-mapa-online-mostra-tudo-que-existe-no-jogo/"
     to = "/noticias/elden-ring-teste-agora-mesmo-o-mapa-online-mostra-tudo-que-existe-no-jogo/"
+[[redirects]]
+    from = "/sensibilidade/calculadora-de-sensibilidade/sensibilidade/calculadora-sensibilidade-cs-go-para-valorant/"
+    to = "/"
 [[redirects]]
     from = "/amazon/pc-gaming/o-mouse-sem-fio-mais-vendido/"
     to = "/amazon/pc-gaming/o-mouse-sem-fio-mais-vendido-mo-285/"
