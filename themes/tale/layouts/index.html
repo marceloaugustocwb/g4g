@@ -48,6 +48,13 @@
 	</nav>
 
 	<div class="catalogue">
+		<h2 class="content-title-home">Ùltimas postagens</h2>
+		{{- $noticias := where .Site.Pages "Section" "noticias" -}}
+		{{- $noticiasOrdenadas := sort $noticias "Date" "desc" -}}
+		{{- range first 5 $noticiasOrdenadas -}}
+			{{ .Render "summary-home" }}
+		{{- end -}}
+
 		<h2 class="content-title-home">Free Fire</h2>
 		{{- $p1 := where .Site.Pages "Params.tags" "intersect" (slice "Free Fire") -}}
 		{{- range first 5 ($p1) -}}
