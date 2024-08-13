@@ -1,14 +1,16 @@
-<a href="{{ .Permalink }}" class="catalogue-item">
-    <div>
-        <h3 class="catalogue-title">{{ .Title }}</h3>
-        <div class="catalogue-image-column">
-            <div class="catalogue-image">
-                {{ if .Params.Header.Image }} 
-                    <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
-                {{ else if .Params.Image }}
-                    <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
-                {{ end }}
+{{ if or .Params.Header.Image .Params.Image }}
+    <a href="{{ .Permalink }}" class="catalogue-item">
+        <div>
+            <h3 class="catalogue-title">{{ .Title }}</h3>
+            <div class="catalogue-image-column">
+                <div class="catalogue-image">
+                    {{ if .Params.Header.Image }} 
+                        <img src="{{ .Params.Header.Image | relURL }}" alt="{{ .Title }}">
+                    {{ else if .Params.Image }}
+                        <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+                    {{ end }}
+                </div>
             </div>
         </div>
-    </div>
-</a>
+    </a>
+{{ end }}
