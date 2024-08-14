@@ -3,14 +3,6 @@ This is a placeholder partial for the post footer. Create a file called
 layouts/partials/single/footer.html in your own site to overwrite this
 placeholder.
 -->
-
-
-{{ if in .Permalink "/en/" }}
-    <h2>More content about {{.Page.Params.Tags}}</h2>
-{{ else }}
-    <h2>Mais conteúdos em nosso site sobre {{.Page.Params.Tags}}</h2>
-{{ end }}
-
 		
 {{ $currentTitle := .Page.Title}}
 {{- $p1 := where .Site.Pages "Params.tags" "intersect" .Page.Params.Tags -}}
