@@ -1,4 +1,8 @@
 [[redirects]]
+    from = "/sensibilidade/sensibilidade-para-o-free-fire/"
+    to = "/"
+    status = 301
+[[redirects]]
     from = "/noticias/pre-venda-ps5-slim/"
     to = "/"
     status = 301
