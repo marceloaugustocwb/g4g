@@ -14,15 +14,6 @@
 
 		{{ partial "single/footer.html" . }}
 	</div>
-
-	<div class="pagination">
-		{{- if .PrevPage }}
-		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">Página anterior</a>
-		{{- end }}
-		{{- if .NextPage }}
-		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">Próxima página</a>
-		{{- end }}
-	</div>
 </main>
 
 {{ end }}
