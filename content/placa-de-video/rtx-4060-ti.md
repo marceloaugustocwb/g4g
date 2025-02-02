@@ -1,8 +1,8 @@
 ---
 authors:
 - Marcelo Augusto
-title: "RTX 4060 Ti - Vale a pena em 2024? Análise completa"
-excerpt: "Descubra o desempenho da placa de vídeo RTX 4060 Ti e se ela vale a pena em 2024. Análise completa!"
+title: "RTX 4060 Ti - Vale a pena? Análise completa"
+excerpt: "Descubra o desempenho da placa de vídeo RTX 4060 Ti e se ela vale a pena. Análise completa!"
 date: 2024-02-22T04:09:35-03:00
 isNews: false
 header:

@@ -5,17 +5,7 @@
         <span>Written by</span>
     {{ else }}
         <span>{{ i18n "writtenBy" }}</span>
-    {{ end }}
-
-
-
-    {{- if .Params.Author }}
-        {{ .Params.Author }}
-    {{- else }}
-        {{ .Site.Author.name }}
-    {{- end }}
-
-    {{- if .PublishDate }}
+    {{ end }} Marcelo Augusto {{- if .PublishDate }}
         em <time datetime="{{ .PublishDate }}">{{ i18n "publishdate" . }}</time>
     {{- end }}
 
