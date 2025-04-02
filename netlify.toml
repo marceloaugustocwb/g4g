@@ -408,10 +408,10 @@
     from = "/noticias/como-funciona-a-invocacao-em-lies-of-p/"
     to = "/"
     status = 410
-[[redirects]]
-    from = "/sensibilidade/sensi-do-nobru-2023/"
-    to = "/"
-    status = 410
+
+/sensibilidade/sensi-do-nobru-2023/ 410!
+
+
 [[redirects]]
     from = "/elden-ring/quantas-horas-para-zerar-a-dlc/"
     to = "/"
